@@ -1,0 +1,1213 @@
+"Type","Origin","Introduced","Total","Operators","tabla_origen_id","Role","Notes","unidades_construidas","anio_introduccion"
+"Armstrong Whitworth Scimitar","United Kingdom",1936,6,"Norway (4 as trainers)",0,"","",6.0,1936.0
+"Avia B-534","Czechoslovakia",1935,568,"Bulgaria, Germany, Greece, Slovakia",0,"","",568.0,1935.0
+"Avia BH-33","Czechoslovakia[a]",1927,180,"Poland[a] Yugoslavia",0,"","",180.0,1927.0
+"Blériot-SPAD S.510","France",1936,61,"",0,"","",61.0,1936.0
+"Boeing P-12","United States",1930,586,"Brazil, China, Philippines, Thailand",0,"","",586.0,1930.0
+"Bristol Bulldog","United Kingdom[a]",1929,443,"Denmark, Finland",0,"","",443.0,1929.0
+"Caproni Ca.114","Italy",1933,36,"Peru",0,"","",36.0,1933.0
+"Curtiss F11C Goshawk","United States",1932,30,"China",0,"","",30.0,1932.0
+"Curtiss BF2C Goshawk","United States",1933,166,"China, Thailand",0,"","",166.0,1933.0
+"Fairey Firefly IIM","United Kingdom[a]",1929,91,"Belgium",0,"","",91.0,1929.0
+"Fiat CR.30","Italy",1932,176,"Austria, China, Germany, Hungary, Italy",0,"","",176.0,1932.0
+"Fiat CR.32","Italy",1934,1052,"Hungary, China",0,"","",1052.0,1934.0
+"Fiat CR.42 Falco","Italy",1939,1817,"Hungary, Belgium, Germany, Croatia",0,"","",1817.0,1939.0
+"Gloster Gamecock","United Kingdom[a]",1926,108,"Finland",0,"","",108.0,1926.0
+"Gloster Gauntlet","United Kingdom",1935,246,"Denmark, Finland",0,"","",246.0,1935.0
+"Gloster Gladiator","United Kingdom",1937,747,"Belgium, Finland, Greece, Iraq, Lithuania, Norway",0,"","",747.0,1937.0
+"Grumman FF","United States[a]",1933,116,"Canada",0,"","",116.0,1933.0
+"Grumman F2F","United States[a]",1935,55,"",0,"","",55.0,1935.0
+"Grumman F3F","United States[a]",1936,147,"",0,"","",147.0,1936.0
+"Hawker Demon","United Kingdom",1933,305,"Australia",0,"","",305.0,1933.0
+"Hawker Fury","United Kingdom[a]",1931,275,"Yugoslavia, South Africa",0,"","",275.0,1931.0
+"Hawker Nimrod","United Kingdom[a]",1933,92,"Denmark",0,"","",92.0,1933.0
+"Heinkel He 51","Germany[a]",1935,700,"Bulgaria",0,"","",700.0,1935.0
+"IMAM Ro.44","Italy",1937,35,"",0,"","",35.0,1937.0
+"Kawasaki Ki-10","Japan",1935,588,"",0,"","",588.0,1935.0
+"Kochyerigin DI-6","Soviet Union",1934,222,"",0,"","",222.0,1934.0
+"Koolhoven F.K.52","Netherlands",1939,6,"Finland (2 aircraft)",0,"","",6.0,1939.0
+"Polikarpov I-5","Soviet Union",1931,803,"",0,"","",803.0,1931.0
+"Polikarpov I-15","Soviet Union",1934,3313,"China, Finland",0,"","",3313.0,1934.0
+"Polikarpov I-153","Soviet Union",1939,3437,"China, Finland",0,"","",3437.0,1939.0
+"AEKKEA-RAAB R-29","Greece",1937,30,"Spain",1,"","",30.0,1937.0
+"Ambrosini SAI.207","Italy",1942,14,"",1,"","",14.0,1942.0
+"Ansaldo A.120","Italy",1925,77,"Lithuania",1,"","",77.0,1925.0
+"Arsenal VG-33","France",1940,50,"",1,"","",50.0,1940.0
+"Avia B-135","Czechoslovakia",1941,12,"Bulgaria",1,"","",12.0,1941.0
+"Bell P-39 Airacobra","United States",1941,9588,"Australia, France, Soviet Union, United Kingdom",1,"","",9588.0,1941.0
+"Bell P-63 Kingcobra","United States",1943,3303,"Soviet Union",1,"","",3303.0,1943.0
+"Bloch MB.150","France",1940,683,"Greece, Romania",1,"","",683.0,1940.0
+"Boeing P-26 Peashooter","United States",1933,151,"China, Philippines",1,"","",151.0,1933.0
+"Breda Ba.27","Italy[a]",1933,14,"China",1,"","",14.0,1933.0
+"Brewster F2A Buffalo","United States",1939,509,"Australia, Finland, Netherlands, New Zealand, United Kingdom",1,"","",509.0,1939.0
+"Caudron C.714","France",1940,90,"Finland, exile Poland forces",1,"","",90.0,1940.0
+"CAC Boomerang","Australia",1943,250,"",1,"","",250.0,1943.0
+"Curtiss P-36","United States",1938,1115,"Brazil, Finland, France, Netherlands, Norway, Thailand, United Kingdom",1,"","",1115.0,1938.0
+"Curtiss P-40 Warhawk","United States",1939,13738,"Australia, Brazil, Canada, China, Finland, New Zealand, South Africa, Soviet Union, United Kingdom",1,"","",13738.0,1939.0
+"Curtiss CW-21","United States",1939,62,"China, Netherlands",1,"","",62.0,1939.0
+"Dewoitine D.371","France",1931,89,"France, Germany, Spain",1,"","",89.0,1931.0
+"Dewoitine D.500/D.510","France",1935,381,"China, Lithuania",1,"","",381.0,1935.0
+"Dewoitine D.520","France",1940,900,"Bulgaria, Italy",1,"","",900.0,1940.0
+"Fiat G.50 Freccia","Italy",1938,683,"Finland, Croatia",1,"","",683.0,1938.0
+"Fiat G.55 Centauro","Italy",1943,349,"",1,"","",349.0,1943.0
+"Focke-Wulf Fw 190","Germany",1941,23823,"Hungary",1,"","",23823.0,1941.0
+"Focke-Wulf Ta 152","Germany",1945,69,"",1,"","",69.0,1945.0
+"Fokker D.XXI","Netherlands",1936,148,"Denmark, Finland, Netherlands",1,"","",148.0,1936.0
+"Grumman F4F Wildcat","United States",1940,7885,"United Kingdom",1,"","",7885.0,1940.0
+"Grumman F6F Hellcat","United States",1943,12275,"United Kingdom",1,"","",12275.0,1943.0
+"Grumman F8F Bearcat","United States",1945,1265,"",1,"","",1265.0,1945.0
+"Hawker Hurricane","United Kingdom",1937,14487,"Belgium, Canada, Finland, France, Greece, British India, New Zealand, Soviet Union",1,"","",14487.0,1937.0
+"Hawker Tempest","United Kingdom",1944,1702,"New Zealand",1,"","",1702.0,1944.0
+"Hawker Typhoon","United Kingdom",1940,3317,"Canada, New Zealand",1,"","",3317.0,1940.0
+"Heinkel He 112","Germany",1937,102,"Romania, Hungary",1,"","",102.0,1937.0
+"IAR 80","Romania",1941,450,"",1,"","",450.0,1941.0
+"Ilyushin Il-2","Soviet Union",1939,36183,"",1,"","",36183.0,1939.0
+"Ikarus IK-2","Yugoslavia",1935,12,"Croatia",1,"","",12.0,1935.0
+"Kawanishi N1K Kyōfū","Japan",1943,97,"",1,"","",97.0,1943.0
+"Kawanishi N1K-J Shiden","Japan",1943,1413,"",1,"","",1413.0,1943.0
+"Kawasaki Ki-61","Japan",1942,3078,"",1,"","",3078.0,1942.0
+"Kawasaki Ki-100","Japan",1945,396,"",1,"","",396.0,1945.0
+"Koolhoven F.K.58","Netherlands",1940,20,"France",1,"","",20.0,1940.0
+"Lavochkin-Gorbunov-Gudkov LaGG-1","Soviet Union",1940,100,"",1,"","",100.0,1940.0
+"Lavochkin-Gorbunov-Gudkov LaGG-3","Soviet Union",1941,6528,"Finland",1,"","",6528.0,1941.0
+"Lavochkin La-5","Soviet Union",1942,9920,"",1,"","",9920.0,1942.0
+"Lavochkin La-7","Soviet Union",1944,5753,"",1,"","",5753.0,1944.0
+"Loire 46","France",1936,61,"",1,"","",61.0,1936.0
+"Macchi C.200","Italy",1939,1513,"",1,"","",1513.0,1939.0
+"Macchi C.202","Italy",1941,1150,"Croatia, Germany",1,"","",1150.0,1941.0
+"Macchi C.205","Italy",1943,262,"Croatia, Germany",1,"","",262.0,1943.0
+"MÁVAG Héja","Hungary",1941,204,"",1,"","",204.0,1941.0
+"Messerschmitt Bf 109","Germany",1937,34248,"Bulgaria, Finland, Hungary, Italy, Romania, Yugoslavia",1,"","",34248.0,1937.0
+"Mikoyan-Gurevich MiG-1","Soviet Union",1940,103,"",1,"","",103.0,1940.0
+"Mikoyan-Gurevich MiG-3","Soviet Union",1941,3422,"",1,"","",3422.0,1941.0
+"Mitsubishi A5M","Japan",1936,1094,"",1,"","",1094.0,1936.0
+"Mitsubishi A6M","Japan",1940,10939,"",1,"","",10939.0,1940.0
+"Mitsubishi J2M Raiden","Japan",1942,621,"",1,"","",621.0,1942.0
+"Morane-Saulnier M.S.406","France",1939,1176,"Croatia, Finland, Italy, Poland",1,"","",1176.0,1939.0
+"Nakajima A6M2-N","Japan",1942,327,"",1,"","",327.0,1942.0
+"Nakajima Ki-27","Japan",1937,3368,"Manchukuo, Thailand",1,"","",3368.0,1937.0
+"Nakajima Ki-43","Japan",1941,5919,"Manchukuo, Thailand",1,"","",5919.0,1941.0
+"Nakajima Ki-44","Japan",1942,1225,"",1,"","",1225.0,1942.0
+"Nakajima Ki-84","Japan",1943,3514,"",1,"","",3514.0,1943.0
+"North American P-51 Mustang","United States",1942,15588,"Australia, Canada, China, France, South Africa, Soviet Union, United Kingdom",1,"","",15588.0,1942.0
+"Polikarpov I-16","Soviet Union",1934,10292,"China, Finland",1,"","",10292.0,1934.0
+"PZL P.7","Poland",1933,151,"",1,"","",151.0,1933.0
+"PZL P.11","Poland",1934,325,"Romania",1,"","",325.0,1934.0
+"PZL P.24","Poland",1936,184,"Bulgaria, Greece, Romania",1,"","",184.0,1936.0
+"Reggiane Re.2000","Italy",1940,186,"Hungary",1,"","",186.0,1940.0
+"Reggiane Re.2001","Italy",1941,237,"",1,"","",237.0,1941.0
+"Reggiane Re.2005","Italy",1943,48,"Germany",1,"","",48.0,1943.0
+"Republic P-43 Lancer","United States",1941,272,"Australia, China",1,"","",272.0,1941.0
+"Republic P-47 Thunderbolt","United States",1942,15636,"Brazil, France, Mexico, Soviet Union, United Kingdom",1,"","",15636.0,1942.0
+"Rogožarski IK-3","Yugoslavia",1940,13,"",1,"","",13.0,1940.0
+"Seversky P-35","United States",1937,196,"Philippines",1,"","",196.0,1937.0
+"Supermarine Seafire","United Kingdom",1942,2646,"",1,"","",2646.0,1942.0
+"Supermarine Spitfire","United Kingdom",1938,20381,"Australia, Canada, France, India, Italy, New Zealand, Norway, South Africa, Soviet Union, United States",1,"","",20381.0,1938.0
+"VL Myrsky","Finland",1943,51,"",1,"","",51.0,1943.0
+"Vought F4U Corsair","United States",1942,12571,"United Kingdom, New Zealand",1,"","",12571.0,1942.0
+"Vultee P-66 Vanguard","United States",1941,146,"China",1,"","",146.0,1941.0
+"Yakovlev Yak-1","Soviet Union",1940,8700,"France",1,"","",8700.0,1940.0
+"Yakovlev Yak-3","Soviet Union",1944,4848,"France",1,"","",4848.0,1944.0
+"Yakovlev Yak-7","Soviet Union",1942,6399,"France",1,"","",6399.0,1942.0
+"Yakovlev Yak-9","Soviet Union",1942,16769,"France",1,"","",16769.0,1942.0
+"Blackburn Roc","United Kingdom",1939,136,"",2,"","",136.0,1939.0
+"Blackburn Skua","United Kingdom",1938,192,"",2,"","",192.0,1938.0
+"Boulton Paul Defiant","United Kingdom",1939,1064,"Canada, Polish exile forces",2,"","",1064.0,1939.0
+"Bristol Beaufighter","United Kingdom",1940,5928,"Australia, Canada, South Africa, United States",2,"","",5928.0,1940.0
+"Bristol Blenheim","United Kingdom",1937,4422,"Canada",2,"","",4422.0,1937.0
+"De Havilland Mosquito","United Kingdom",1941,7781,"Australia, Canada, New Zealand, United States",2,"","",7781.0,1941.0
+"Dornier Do 215","Germany",1939,105,"Hungary",2,"","",105.0,1939.0
+"Dornier Do 217","Germany",1941,1925,"Italy",2,"","",1925.0,1941.0
+"Dornier Do 335","Germany",1944,37,"",2,"","",37.0,1944.0
+"Fairey Firefly","United Kingdom",1941,1072,"",2,"","",1072.0,1941.0
+"Fairey Fulmar","United Kingdom",1940,600,"",2,"","",600.0,1940.0
+"Focke-Wulf Ta 154","Germany",1944,28,"",2,"","",28.0,1944.0
+"Fokker G.I","Netherlands",1939,63,"",2,"","",63.0,1939.0
+"Grumman F7F Tigercat","United States",1944,364,"",2,"","",364.0,1944.0
+"Heinkel He 219","Germany",1943,300,"",2,"","",300.0,1943.0
+"IMAM Ro.57","Italy",1943,51,"",2,"","",51.0,1943.0
+"Junkers Ju 88","Germany",1940,15183,"",2,"","",15183.0,1940.0
+"Junkers Ju 388","Germany",1944,100,"",2,"","",100.0,1944.0
+"Kawasaki Ki-45","Japan",1942,1701,"",2,"","",1701.0,1942.0
+"Kawasaki Ki-102","Japan",1945,238,"",2,"","",238.0,1945.0
+"Lockheed P-38 Lightning","United States",1941,10037,"China",2,"","",10037.0,1941.0
+"Messerschmitt Bf 110","Germany",1937,6170,"Croatia, Hungary, Italy, Iraq, Romania",2,"","",6170.0,1937.0
+"Messerschmitt Me 210","Germany",1943,357,"Hungary",2,"","",357.0,1943.0
+"Messerschmitt Me 410","Germany",1943,1189,"Hungary",2,"","",1189.0,1943.0
+"Mitsubishi Ki-109","Japan",1945,22,"",2,"","",22.0,1945.0
+"Nakajima J1N Gekkō","Japan",1942,479,"",2,"","",479.0,1942.0
+"Northrop P-61 Black Widow","United States",1944,706,"",2,"","",706.0,1944.0
+"Petlyakov Pe-3","Soviet Union",1941,360,"Finland",2,"","",360.0,1941.0
+"Potez 630","France",1938,1395,"Greece, Romania",2,"","",1395.0,1938.0
+"Westland Welkin","United Kingdom",1944,77,"",2,"","",77.0,1944.0
+"Westland Whirlwind","United Kingdom",1940,114,"",2,"","",114.0,1940.0
+"Bell P-59 Airacomet","United States",1944,"66","",3,"","",66.0,1944.0
+"Gloster Meteor","United Kingdom",1944,"3,947[a]","",3,"","",3947.0,1944.0
+"Heinkel He 162","Germany",1945,"320","",3,"","",320.0,1945.0
+"Lockheed P-80 Shooting Star","United States",1945,"1,715[b]","",3,"","",1715.0,1945.0
+"Messerschmitt Me 163 Komet","Germany",1944,"370","",3,"","",370.0,1944.0
+"Messerschmitt Me 262","Germany",1944,"1430","",3,"","",1430.0,1944.0
+"Ryan FR Fireball","United States[c]",1945,"71","",3,"","",71.0,1945.0
+"Avro Lancaster","United Kingdom",1942,7377,"Australia, Canada",4,"","",7377.0,1942.0
+"Avro Manchester","United Kingdom",1940,202,"",4,"","",202.0,1940.0
+"Boeing B-17 Flying Fortress","United States",1938,12731,"Canada, United Kingdom",4,"","",12731.0,1938.0
+"Boeing B-29 Superfortress","United States",1944,3970,"",4,"","",3970.0,1944.0
+"Consolidated B-24 Liberator","United States",1940,18188,"Australia, Canada, China, United Kingdom",4,"","",18188.0,1940.0
+"Consolidated B-32 Dominator","United States",1942,118,"",4,"","",118.0,1942.0
+"Dornier Do 217","Germany",1941,1925,"Italy",4,"","",1925.0,1941.0
+"Focke-Wulf Fw 200 Condor (maritime patrol)","Germany",1940,276,"",4,"","",276.0,1940.0
+"Handley Page Halifax","United Kingdom",1940,6176,"Australia, Canada, France",4,"","",6176.0,1940.0
+"Heinkel He 177","Germany",1943,1169,"",4,"","",1169.0,1943.0
+"Petlyakov Pe-8","Soviet Union",1940,93,"",4,"","",93.0,1940.0
+"Piaggio P.108","Italy",1942,37,"",4,"","",37.0,1942.0
+"Short Stirling","United Kingdom",1940,2371,"",4,"","",2371.0,1940.0
+"Tupolev TB-3","Soviet Union",1932,818,"",4,"","",818.0,1932.0
+"Vickers Warwick","United Kingdom",1942,846,"",4,"","",846.0,1942.0
+"Yermolayev Yer-2","Soviet Union",1941,365,"",4,"","",365.0,1941.0
+"Arado Ar 234","Germany",1944,"214","",5,"","",214.0,1944.0
+"Arkhangelsky Ar-2","Soviet Union",1940,"190","",5,"","",190.0,1940.0
+"Armstrong Whitworth Whitley","United Kingdom",1937,"1814","",5,"","",1814.0,1937.0
+"Avia F.39","Czechoslovakia",1932,"18","",5,"","",18.0,1932.0
+"Amiot 143","France",1936,"138","",5,"","",138.0,1936.0
+"Amiot 354","France",1940,"86","France, Germany",5,"","",86.0,1940.0
+"Bloch MB.200","France",1935,"332","Bulgaria, Czechoslovakia",5,"","",332.0,1935.0
+"Bloch MB.210","France",1937,"300","",5,"","",300.0,1937.0
+"CANT Z.1007","Italy",1938,"660","",5,"","",660.0,1938.0
+"Caproni Ca.135","Italy",1937,"140","Hungary",5,"","",140.0,1937.0
+"Consolidated PB4Y-2 Privateer","United States",1943,"739","",5,"","",739.0,1943.0
+"de Havilland Mosquito","United Kingdom",1941,"7781","Australia, Canada, New Zealand, Norway, South Africa",5,"","",7781.0,1941.0
+"Dornier Do 11","Germany",1932,"372","Bulgaria",5,"","",372.0,1932.0
+"Dornier Do 17","Germany",1937,"2139","Bulgaria, Finland, Yugoslavia",5,"","",2139.0,1937.0
+"Dornier Do 215","Germany",1939,"105","",5,"","",105.0,1939.0
+"Douglas A-20 Havoc","United States",1941,"7,478[a]","Australia, Brazil, Canada, France, Netherlands, South Africa, Soviet Union, United Kingdom",5,"","",7478.0,1941.0
+"Douglas A-26 Invader","United States",1944,"2503","United Kingdom",5,"","",2503.0,1944.0
+"Douglas B-18 Bolo","United States",1936,"350","Brazil, Canada",5,"","",350.0,1936.0
+"Douglas B-23 Dragon","United States",1939,"38","",5,"","",38.0,1939.0
+"Farman F.220","France",1936,"80","",5,"","",80.0,1936.0
+"Fiat BR.20","Italy",1938,"500","Hungary",5,"","",500.0,1938.0
+"Fokker T.V","Netherlands",1938,"16","",5,"","",16.0,1938.0
+"Handley Page Hampden","United Kingdom",1938,"1430","Canada, Soviet Union",5,"","",1430.0,1938.0
+"Heinkel He 111","Germany",1936,"5656","Germany, Bulgaria, China, Hungary, Romania, Slovakia",5,"","",5656.0,1936.0
+"IAR 79","Romania",1941,"72","",5,"","",72.0,1941.0
+"Ilyushin DB-3","Soviet Union",1936,"1528","China, Finland",5,"","",1528.0,1936.0
+"Ilyushin Il-4","Soviet Union",1939,"5256","Finland",5,"","",5256.0,1939.0
+"Junkers Ju 86","Germany",1936,"900","Hungary, South Africa",5,"","",900.0,1936.0
+"Junkers Ju 88","Germany",1938,"15183","Finland, Hungary, Italy, Romania, France, Soviet Union",5,"","",15183.0,1938.0
+"Junkers Ju 188","Germany",1943,"1234","Hungary",5,"","",1234.0,1943.0
+"Keystone B-3A","United States",1926,"63","Philippines",5,"","",63.0,1926.0
+"Lioré et Olivier LeO 451","France",1939,"561","",5,"","",561.0,1939.0
+"Lisunov Li-2","Soviet Union",1939,"4937","",5,"","",4937.0,1939.0
+"Lockheed Ventura","United States",1942,"3028","Australia, Brazil, Canada, New Zealand, South Africa, United Kingdom",5,"","",3028.0,1942.0
+"Martin B-10","United States",1934,"348","China, Netherlands,[1] Philippines, Thailand[2]",5,"","",348.0,1934.0
+"Martin B-26 Marauder","United States",1941,"5288","France, South Africa, United Kingdom",5,"","",5288.0,1941.0
+"Martin Baltimore","United States",1941,"1575","Australia France, Greece, Co-Belligerent Italy, South Africa, United Kingdom",5,"","",1575.0,1941.0
+"Martin Maryland","United States",1939,"450","France, South Africa, United Kingdom",5,"","",450.0,1939.0
+"Mitsubishi Ki-21","Japan",1938,"2064","Japan, Thailand",5,"","",2064.0,1938.0
+"North American B-25 Mitchell","United States",1941,"9816","Australia, Brazil, Canada, China, France, Netherlands, United Kingdom, Soviet Union",5,"","",9816.0,1941.0
+"Nakajima Ki-49","Japan",1938,"819","",5,"","",819.0,1938.0
+"Petlyakov Pe-2","Soviet Union",1941,"11070","Finland",5,"","",11070.0,1941.0
+"Piaggio P.108","Italy",1942,"50","Germany[notes 1]",5,"","",50.0,1942.0
+"PZL.37 Łoś","Poland",1938,"120","Germany, Romania",5,"","",120.0,1938.0
+"Savoia-Marchetti SM.79","Italy",1937,"1240","Iraq, Romania, Yugoslavia, Greece",5,"","",1240.0,1937.0
+"Savoia-Marchetti SM.81","Italy",1935,"535","",5,"","",535.0,1935.0
+"Savoia-Marchetti SM.84","Italy",1941,"329","",5,"","",329.0,1941.0
+"Tupolev TB-1","Soviet Union",1929,"218","",5,"","",218.0,1929.0
+"Tupolev Tu-2","Soviet Union",1944,"2257","",5,"","",2257.0,1944.0
+"Vickers Wellington","United Kingdom",1938,"11462","Australia, Canada, France, South Africa",5,"","",11462.0,1938.0
+"Yokosuka P1Y Ginga","Japan",1945,"1102","",5,"","",1102.0,1945.0
+"Aero A.32","Czechoslovakia",1928,116.0,"Finland",6,"","",116.0,1928.0
+"Aero A.100","Czechoslovakia",1933,44.0,"",6,"","",44.0,1933.0
+"Aero A.304","Czechoslovakia",1937,19.0,"Bulgaria, Germany",6,"","",19.0,1937.0
+"ANBO IV","Lithuania",1932,34.0,"Germany, Soviet Union",6,"","",34.0,1932.0
+"ANF Les Mureaux 113","France",1933,285.0,"",6,"","",285.0,1933.0
+"Armstrong Whitworth Atlas","United Kingdom[b]",1927,478.0,"Canada",6,"","",478.0,1927.0
+"Avro Anson","United Kingdom",1936,11020.0,"Canada, Egypt, Finland, Greece, India, Iran, Iraq, Netherlands, Turkey",6,"","",11020.0,1936.0
+"Blackburn Ripon","United Kingdom[b]",1929,92.0,"Finland",6,"","",92.0,1929.0
+"Blackburn Shark","United Kingdom",1935,269.0,"Canada",6,"","",269.0,1935.0
+"Blackburn Botha","United Kingdom",1939,580.0,"",6,"","",580.0,1939.0
+"Bloch MB.131","France",1938,143.0,"",6,"","",143.0,1938.0
+"Bloch MB.170","France",1940,88.0,"",6,"","",88.0,1940.0
+"Blohm & Voss BV 142","Germany",1940,4.0,"",6,"","",4.0,1940.0
+"Breda Ba.64","Italy",1937,42.0,"",6,"","",42.0,1937.0
+"Breda Ba.65","Italy",1937,218.0,"Iraq",6,"","",218.0,1937.0
+"Breda Ba.88","Italy",1938,149.0,"",6,"","",149.0,1938.0
+"Breguet 19","France",1924,2700.0,"Belgium, Croatia, Greece, Poland, Yugoslavia",6,"","",2700.0,1924.0
+"Bréguet 270","France",1930,227.0,"China",6,"","",227.0,1930.0
+"Breguet 693","France",1939,230.0,"",6,"","",230.0,1939.0
+"Bristol Beaufort","United Kingdom",1940,1821.0,"Australia, Canada, New Zealand, South Africa",6,"","",1821.0,1940.0
+"Bristol Blenheim","United Kingdom",1937,4422.0,"Canada, Finland, France, Greece, Yugoslavia",6,"","",4422.0,1937.0
+"Caproni Ca.309","Italy",1937,243.0,"Bulgaria",6,"","",243.0,1937.0
+"Caproni Ca.310","Italy",1938,312.0,"Croatia, France, Hungary, Norway, Yugoslavia",6,"","",312.0,1938.0
+"Caproni Ca.311","Italy",1938,335.0,"Croatia, Yugoslavia",6,"","",335.0,1938.0
+"Caproni Ca.313","Italy",1938,271.0,"Croatia, France, Germany, Norway",6,"","",271.0,1938.0
+"Caproni Ca.314","Italy",1938,425.0,"Hungary",6,"","",425.0,1938.0
+"Curtiss A-12 Shrike","United States",1933,46.0,"",6,"","",46.0,1933.0
+"Curtiss A-18 Shrike","United States",1936,13.0,"",6,"","",13.0,1936.0
+"Curtiss Falcon","United States",1928,488.0,"Philippines",6,"","",488.0,1928.0
+"Curtiss O-52 Owl","United States",1940,203.0,"Soviet Union",6,"","",203.0,1940.0
+"DAR 3","Bulgaria",1937,24.0,"",6,"","",24.0,1937.0
+"Douglas O-43","United States",1933,24.0,"",6,"","",24.0,1933.0
+"Douglas O-46","United States",1936,90.0,"Philippines",6,"","",90.0,1936.0
+"Fairey Battle","United Kingdom",1937,2201.0,"Australia, Belgium, Canada, Greece",6,"","",2201.0,1937.0
+"Fairey Fox","United Kingdom",1932,200.0,"Belgium",6,"","",200.0,1932.0
+"Fairey Gordon","United Kingdom",1931,186.0,"New Zealand",6,"","",186.0,1931.0
+"Fairey IIIF","United Kingdom",1926,964.0,"Greece",6,"","",964.0,1926.0
+"Focke-Wulf Fw 189","Germany",1941,864.0,"Bulgaria, Hungary, Romania",6,"","",864.0,1941.0
+"Fokker C.V","Netherlands",1924,955.0,"Denmark, Finland, Hungary, Norway",6,"","",955.0,1924.0
+"Fokker C.VIII","Netherlands",1928,10.0,"",6,"","",10.0,1928.0
+"Fokker C.X","Netherlands",1932,74.0,"Finland",6,"","",74.0,1932.0
+"Hawker Hart","United Kingdom",1928,"","Finland",6,"","","",1928.0
+"Hawker Audax/Nisr/Hartebees","United Kingdom",1931,"","India, Iraq, Persia, South Africa",6,"","","",1931.0
+"Hawker Hector","United Kingdom",1936,179.0,"",6,"","",179.0,1936.0
+"Hawker Hind","United Kingdom",1935,528.0,"New Zealand",6,"","",528.0,1935.0
+"Hawker Horsley","United Kingdom",1927,124.0,"Denmark, Greece",6,"","",124.0,1927.0
+"Heinkel He 45","Germany",1931,512.0,"Bulgaria, Hungary",6,"","",512.0,1931.0
+"Heinkel He 46","Germany",1931,500.0,"Hungary",6,"","",500.0,1931.0
+"Heinkel He 50","Germany",1935,78.0,"",6,"","",78.0,1935.0
+"Henschel Hs 123","Germany",1936,250.0,"",6,"","",250.0,1936.0
+"Henschel Hs 126","Germany",1937,"","Croatia, Estonia, Greece",6,"","","",1937.0
+"Henschel Hs 129","Germany",1938,865.0,"Hungary, Romania",6,"","",865.0,1938.0
+"IAR 37","Romania",1938,380.0,"",6,"","",380.0,1938.0
+"Ilyushin Il-2","Soviet Union",1941,36183.0,"",6,"","",36183.0,1941.0
+"Ilyushin Il-10","Soviet Union",1944,6166.0,"",6,"","",6166.0,1944.0
+"IMAM Ro.37","Italy",1935,617.0,"Hungary",6,"","",617.0,1935.0
+"Junkers Ju 52","Germany",1932,4845.0,"",6,"","",4845.0,1932.0
+"Junkers Ju 87","Germany",1937,6000.0,"Italy, Hungary, Bulgaria",6,"","",6000.0,1937.0
+"Kaproni Bulgarski KB-11","Bulgaria",1941,"","",6,"","","",1941.0
+"Kawasaki Ki-32","Japan",1938,854.0,"Manchukuo",6,"","",854.0,1938.0
+"Kawasaki Ki-48","Japan",1940,1997.0,"",6,"","",1997.0,1940.0
+"Kharkov KhAI-5","Soviet Union",1936,500.0,"",6,"","",500.0,1936.0
+"Kyūshū Q1W Tōkai","Japan",1945,153.0,"",6,"","",153.0,1945.0
+"Letov Š-16","Czechoslovakia",1928,89.0,"Latvia, Turkey",6,"","",89.0,1928.0
+"Letov Š-28","Czechoslovakia",1934,412.0,"Bulgaria, Germany, Slovakia, Lithuania",6,"","",412.0,1934.0
+"Lockheed Hudson","United States",1939,2941.0,"Australia, Brazil, Canada, Netherlands, New Zealand, United Kingdom",6,"","",2941.0,1939.0
+"Lublin R-XIII","Poland",1932,273.0,"Romania",6,"","",273.0,1932.0
+"RWD-14 Czapla","Poland",1939,65.0,"Romania",6,"","",65.0,1939.0
+"Mitsubishi G3M","Japan",1937,1048.0,"",6,"","",1048.0,1937.0
+"Mitsubishi G4M","Japan",1941,2435.0,"",6,"","",2435.0,1941.0
+"Mitsubishi Ki-30","Japan",1938,704.0,"Thailand",6,"","",704.0,1938.0
+"Mitsubishi Ki-51","Japan",1939,2385.0,"",6,"","",2385.0,1939.0
+"Mitsubishi Ki-67","Japan",1942,767.0,"",6,"","",767.0,1942.0
+"North American A-36 Apache","United States",1942,500.0,"",6,"","",500.0,1942.0
+"North American O-47","United States",1934,239.0,"",6,"","",239.0,1934.0
+"Northrop A-17","United States",1935,411.0,"South Africa, Canada, France, Iraq, Netherlands, Norway, United Kingdom",6,"","",411.0,1935.0
+"Orlogsværftet O-Maskinen","Denmark",1926,15.0,"",6,"","",15.0,1926.0
+"Polikarpov Po-2","Soviet Union",1929,20000.0,"Finland",6,"","",20000.0,1929.0
+"Polikarpov R-5","Soviet Union",1931,7000.0,"",6,"","",7000.0,1931.0
+"Polikarpov R-Z","Soviet Union",1935,1031.0,"",6,"","",1031.0,1935.0
+"Potez 25","France",1925,4000.0,"Greece, Yugoslavia, Poland",6,"","",4000.0,1925.0
+"Potez 540","France",1934,192.0,"",6,"","",192.0,1934.0
+"PZL.23 Karaś","Poland",1936,250.0,"Romania, Bulgaria",6,"","",250.0,1936.0
+"PZL.43","Poland",1936,54.0,"Germany, Bulgaria",6,"","",54.0,1936.0
+"Reggiane Re.2002","Italy",1941,225.0,"Germany",6,"","",225.0,1941.0
+"Rogožarski R-100","Yugoslavia",1938,26.0,"Croatia",6,"","",26.0,1938.0
+"Renard R.31","Belgium",1935,43.0,"",6,"","",43.0,1935.0
+"Boripatra","Siam",1927,12.0,"",6,"","",12.0,1927.0
+"Saab 17","Sweden",1940,326.0,"Denmark",6,"","",326.0,1940.0
+"Savoia-Marchetti SM.85","Italy",1939,34.0,"",6,"","",34.0,1939.0
+"Sukhoi Su-2","Soviet Union",1937,910.0,"",6,"","",910.0,1937.0
+"Tachikawa Ki-36","Japan",1938,1334.0,"Japan, Thailand",6,"","",1334.0,1938.0
+"Thomas-Morse O-19","United States",1929,176.0,"Philippines",6,"","",176.0,1929.0
+"Tupolev SB","Soviet Union",1934,6656.0,"Bulgaria, China, Czechoslovakia, Finland",6,"","",6656.0,1934.0
+"Vickers Vildebeest","United Kingdom",1933,406.0,"New Zealand",6,"","",406.0,1933.0
+"Vickers Wellesley","United Kingdom",1937,177.0,"",6,"","",177.0,1937.0
+"VL Kotka","Finland",1931,5.0,"",6,"","",5.0,1931.0
+"Vought O2U Corsair","United States",1926,580.0,"Brazil, China, Thailand",6,"","",580.0,1926.0
+"Vultee Vengeance","United States",1942,1931.0,"Australia, Brazil, France, India, United Kingdom",6,"","",1931.0,1942.0
+"Vultee V-11","United States",1939,175.0,"Brazil, China, Soviet Union",6,"","",175.0,1939.0
+"Weiss WM-16","Hungary",1936,"","",6,"","","",1936.0
+"Weiss WM-21 Sólyom","Hungary",1938,128.0,"",6,"","",128.0,1938.0
+"Westland Lysander","United Kingdom",1936,1786.0,"Canada, France, Finland, India, United States",6,"","",1786.0,1936.0
+"Westland Wapiti","United Kingdom",1928,586.0,"Australia, Canada, India",6,"","",586.0,1928.0
+"Westland Wallace","United Kingdom",1933,173.0,"",6,"","",173.0,1933.0
+"Yakovlev Yak-4","Soviet Union",1941,90.0,"",6,"","",90.0,1941.0
+"Aichi B7A Ryūsei","Japan",1945,114,"",7,"torpedo/dive bomber","",114.0,1945.0
+"Aichi D1A[notes 2]","Japan",1934,590,"",7,"dive bomber","",590.0,1934.0
+"Aichi D3A","Japan",1937,1445,"",7,"dive bomber","",1445.0,1937.0
+"Blackburn Skua","United Kingdom",1938,192,"",7,"fighter/dive bomber","",192.0,1938.0
+"Brewster SB2A Buccaneer","United States",1941,771,"United Kingdom",7,"dive bomber","",771.0,1941.0
+"Consolidated TBY Sea Wolf","United States",1944,181,"",7,"torpedo bomber","",181.0,1944.0
+"Curtiss SB2C Helldiver","United States",1943,7140,"Australia, United Kingdom",7,"dive bomber","",7140.0,1943.0
+"Curtiss SBC Helldiver","United States",1938,257,"France, United Kingdom",7,"dive bomber","",257.0,1938.0
+"Douglas DT[notes 3]","United States",1921,90,"Norway",7,"torpedo bomber","",90.0,1921.0
+"Douglas SBD Dauntless","United States",1940,5936,"New Zealand",7,"dive bomber","",5936.0,1940.0
+"Douglas TBD Devastator","United States",1935,130,"",7,"torpedo bomber","",130.0,1935.0
+"Fairey Albacore","United Kingdom",1940,800,"Canada",7,"torpedo/dive bomber","",800.0,1940.0
+"Fairey Barracuda","United Kingdom",1942,2602,"",7,"torpedo/dive bomber","",2602.0,1942.0
+"Fairey Swordfish","United Kingdom",1936,2391,"Canada",7,"torpedo bomber","",2391.0,1936.0
+"Fieseler Fi 167","Germany",1940,14,"Croatia, Romania",7,"torpedo/reconnaissance bomber","",14.0,1940.0
+"Grumman TBF Avenger","United States",1942,9839,"New Zealand, United Kingdom",7,"torpedo bomber","",9839.0,1942.0
+"Loire-Nieuport LN.401","France",1939,68,"",7,"dive bomber","",68.0,1939.0
+"Mitsubishi B5M","Japan",1937,125,"",7,"torpedo bomber","",125.0,1937.0
+"Nakajima B5N","Japan",1938,1149,"",7,"torpedo bomber","",1149.0,1938.0
+"Nakajima B6N Tenzan","Japan",1942,1268,"",7,"torpedo bomber","",1268.0,1942.0
+"Naval Aircraft Factory SBN","United States",1941,30,"",7,"dive bomber","",30.0,1941.0
+"Northrop BT","United States",1935,55,"",7,"dive bomber","",55.0,1935.0
+"SB2U Vindicator/Chesapeake","United States",1937,260,"France, United Kingdom",7,"dive bomber","",260.0,1937.0
+"Yokosuka B4Y","Japan",1936,205,"",7,"torpedo bomber","",205.0,1936.0
+"Yokosuka D4Y Suisei","Japan",1942,2038,"",7,"dive bomber/night fighter","",2038.0,1942.0
+"Arado Ar 234","Germany",1944,214.0,"",8,"","",214.0,1944.0
+"Boeing F-9/RB-17 Flying Fortress","United States",1940,"","",8,"","","",1940.0
+"Consolidated F-7 Liberator","United States",1940,"","",8,"","","",1940.0
+"de Havilland Mosquito PR variants","United Kingdom",1941,"","Canada, United States",8,"","","",1941.0
+"Dornier Do 17Z-3","Germany",1937,"","Yugoslavia",8,"","","",1937.0
+"Dornier Do 215B-0/1/4","Germany",1939,"","",8,"","","",1939.0
+"Dornier Do 217A-0","Germany",1941,"","",8,"","","",1941.0
+"Douglas F-3 Havoc","United States",1941,"","",8,"","","",1941.0
+"Fiat CR.25","Italy",1940,"","",8,"","","",1940.0
+"Focke-Wulf Fw 190A-3/U4, A-4/U4 & A-5/U4","Germany",1941,"","",8,"","","",1941.0
+"Focke-Wulf Ta 152H-1-0","Germany",1945,"","",8,"","","",1945.0
+"Heinkel He 70K/170","Germany",1937,"","Hungary",8,"","","",1937.0
+"Junkers Ju 86P","Germany",1936,"","",8,"","","",1936.0
+"Junkers Ju 88D & T","Germany",1939,"","",8,"","","",1939.0
+"Junkers Ju 188D & F","Germany",1943,"","",8,"","","",1943.0
+"Lockheed F-4 and F-5 Lightning","United States",1941,"","Australia, France, Italy",8,"","","",1941.0
+"Messerschmitt Bf 109E-5/F-6/G-4","Germany",1937,"","",8,"","","",1937.0
+"Messerschmitt Bf 110C-5/E-3/F-3","Germany",1937,"","",8,"","","",1937.0
+"Messerschmitt Me 210B","Germany",1943,"","",8,"","","",1943.0
+"Messerschmitt Me 262A-1a/U3","Germany",1944,"","",8,"","","",1944.0
+"Messerschmitt Me 410A-1/U-1, A-2/U-1 & A-3","Germany",1943,"","",8,"","","",1943.0
+"Mitsubishi Ki-15/C5M","Japan",1937,"","",8,"","","",1937.0
+"Mitsubishi Ki-46","Japan",1941,"","",8,"","","",1941.0
+"Nakajima C6N Saiun","Japan",1944,"","",8,"","","",1944.0
+"Nakajima J1N1-C Gekkō","Japan",1942,"","",8,"","","",1942.0
+"North American F-6 Mustang","United States",1942,"","France",8,"","","",1942.0
+"Potez 63.11","France",1939,"","",8,"","","",1939.0
+"PWS-10[notes 4]","Poland",1932,"","",8,"","","",1932.0
+"Supermarine Spitfire PR variants","United Kingdom",1938,"","Soviet Union, United States, and others",8,"","","",1938.0
+"Yakovlev Yak-9R","Soviet Union",1942,"","",8,"","","",1942.0
+"Aichi E10A","Japan",1934,15.0,"",9,"","",15.0,1934.0
+"Aichi E11A","Japan",1937,17.0,"",9,"","",17.0,1937.0
+"Aichi H9A","Japan",1942,31.0,"",9,"","",31.0,1942.0
+"Beriev MBR-2","Soviet Union",1935,1365.0,"",9,"","",1365.0,1935.0
+"Blohm & Voss BV 138","Germany",1940,297.0,"",9,"","",297.0,1940.0
+"Blohm & Voss BV 222","Germany",1941,13.0,"",9,"","",13.0,1941.0
+"Boeing 314/C-98 Clipper","United States",1939,12.0,"",9,"","",12.0,1939.0
+"Bréguet 521 Bizerte","France",1935,37.0,"Germany",9,"","",37.0,1935.0
+"CAMS 37","France",1926,332.0,"",9,"","",332.0,1926.0
+"CAMS 55","France",1930,112.0,"",9,"","",112.0,1930.0
+"Canadian Vickers Vancouver","Canada",1930,6.0,"",9,"","",6.0,1930.0
+"Canadian Vickers Vedette","Canada",1925,60.0,"",9,"","",60.0,1925.0
+"CANT Z.501","Italy",1935,454.0,"Romania",9,"","",454.0,1935.0
+"Chyetverikov MDR-6","Soviet Union",1941,27.0,"",9,"","",27.0,1941.0
+"Consolidated PBY/PBN/PBV/OA-10 Catalina/Canso[notes 5]","United States",1935,3308.0,"Australia, Brazil, Canada, France, Norway, Soviet Union, United Kingdom",9,"","",3308.0,1935.0
+"Consolidated P2Y","United States",1929,78.0,"Argentina",9,"","",78.0,1929.0
+"Consolidated PB2Y Coronado","United States",1937,217.0,"United Kingdom",9,"","",217.0,1937.0
+"Dornier Do 18","Germany",1938,170.0,"",9,"","",170.0,1938.0
+"Dornier Do 24","Germany",1937,279.0,"Australia, Netherlands",9,"","",279.0,1937.0
+"Dornier Do 26","Germany",1938,6.0,"",9,"","",6.0,1938.0
+"Dornier Do J Wal","Germany",1922,250.0,"Denmark",9,"","",250.0,1922.0
+"Douglas Dolphin","United States",1931,558.0,"Australia",9,"","",558.0,1931.0
+"Grumman JRF Goose","United States",1937,345.0,"Brazil, Canada, United Kingdom",9,"","",345.0,1937.0
+"Grumman J4F Widgeon/Gosling","United States",1940,317.0,"Brazil, United Kingdom",9,"","",317.0,1940.0
+"Grumman J2F Duck","United States",1936,584.0,"",9,"","",584.0,1936.0
+"Hall PH","United States",1931,24.0,"",9,"","",24.0,1931.0
+"Ikarus IO","Yugoslavia",1926,38.0,"",9,"","",38.0,1926.0
+"Ikarus ŠM","Yugoslavia",1924,42.0,"",9,"","",42.0,1924.0
+"Kawanishi E11K","Japan",1937,2.0,"",9,"","",2.0,1937.0
+"Kawanishi H6K","Japan",1938,215.0,"",9,"","",215.0,1938.0
+"Kawanishi H8K","Japan",1942,167.0,"",9,"","",167.0,1942.0
+"Latécoère 302","France",1932,7.0,"",9,"","",7.0,1932.0
+"Latécoère 521-523","France",1935,5.0,"",9,"","",5.0,1935.0
+"Latécoère 611[notes 6]","France",1940,1.0,"",9,"","",1.0,1940.0
+"Latécoère 631","France",1942,10.0,"Germany",9,"","",10.0,1942.0
+"Lioré et Olivier LeO H-47","France",1937,6.0,"",9,"","",6.0,1937.0
+"Lioré et Olivier LeO H-242","France",1929,15.0,"Italy",9,"","",15.0,1929.0
+"Lioré et Olivier LeO H-246","France",1939,6.0,"Germany",9,"","",6.0,1939.0
+"Loire 70","France",1937,8.0,"",9,"","",8.0,1937.0
+"Loire 130","France",1937,125.0,"",9,"","",125.0,1937.0
+"Loire 501","France",1933,7.0,"",9,"","",7.0,1933.0
+"Macchi M.C.100","Italy",1940,3.0,"",9,"","",3.0,1940.0
+"Martin M-130","United States",1934,3.0,"",9,"","",3.0,1934.0
+"Martin JRM Mars","United States",1943,7.0,"",9,"","",7.0,1943.0
+"Martin PBM Mariner","United States",1940,1366.0,"Australia, Netherlands, United Kingdom",9,"","",1366.0,1940.0
+"Potez 141[notes 6]","France",1938,1.0,"Germany",9,"","",1.0,1938.0
+"Potez-CAMS 161","France",1938,1.0,"Germany",9,"","",1.0,1938.0
+"Potez 452","France",1936,16.0,"",9,"","",16.0,1936.0
+"RAS-1 Getta","Romania",1925,4.0,"",9,"","",4.0,1925.0
+"Saro Lerwick","United Kingdom",1940,21.0,"",9,"","",21.0,1940.0
+"Saro London","United Kingdom",1936,31.0,"",9,"","",31.0,1936.0
+"Savoia-Marchetti S.55","Italy",1926,243.0,"Romania",9,"","",243.0,1926.0
+"Savoia-Marchetti S.62bis","Italy",1926,"","Romania",9,"","","",1926.0
+"Savoia-Marchetti S.66","Italy",1931,24.0,"",9,"","",24.0,1931.0
+"Shavrov Sh-2","Soviet Union",1934,700.0,"Finland",9,"","",700.0,1934.0
+"Short Empire","United Kingdom",1936,42.0,"Australia, New Zealand",9,"","",42.0,1936.0
+"Short S.26","United Kingdom",1940,3.0,"",9,"","",3.0,1940.0
+"Short S.25 Hythe/Sandringham","United Kingdom",1942,37.0,"New Zealand",9,"","",37.0,1942.0
+"Short Singapore","United Kingdom",1935,"","New Zealand",9,"","","",1935.0
+"Short Sunderland","United Kingdom",1938,749.0,"Australia, Canada, France, New Zealand, Norway",9,"","",749.0,1938.0
+"Sikorsky S-40","United States",1931,3.0,"",9,"","",3.0,1931.0
+"Sikorsky S-42","United States",1934,10.0,"",9,"","",10.0,1934.0
+"Sikorsky JRS-1/OA-8","United States",1935,53.0,"",9,"","",53.0,1935.0
+"Sikorsky VS-44/JR2S-1","United States",1937,3.0,"",9,"","",3.0,1937.0
+"Sud-Est SE.200 Amphitrite[notes 7]","France",1942,2.0,"Germany",9,"","",2.0,1942.0
+"Supermarine Sea Otter","United Kingdom",1942,292.0,"",9,"","",292.0,1942.0
+"Supermarine Stranraer[notes 5]","United Kingdom",1937,57.0,"Canada",9,"","",57.0,1937.0
+"Supermarine Walrus","United Kingdom",1935,740.0,"Australia, Canada, France, New Zealand",9,"","",740.0,1935.0
+"Tupolev MTB-1","Soviet Union",1929,15.0,"",9,"","",15.0,1929.0
+"Yokosuka H5Y","Japan",1939,20.0,"",9,"","",20.0,1939.0
+"Aichi E13A","Japan",1941,1418.0,"Thailand",10,"","",1418.0,1941.0
+"Aichi E16A Zuiun","Japan",1944,256.0,"",10,"","",256.0,1944.0
+"Aichi M6A Seiran[notes 8]","Japan",1945,28.0,"",10,"","",28.0,1945.0
+"Arado Ar 95","Germany",1936,42.0,"",10,"","",42.0,1936.0
+"Arado Ar 196","Germany",1938,541.0,"Bulgaria, Finland, Norway, USSR",10,"","",541.0,1938.0
+"Arado Ar 199 trainer","Germany",1939,31.0,"",10,"","",31.0,1939.0
+"Arado Ar 231[notes 8]","Germany",1941,6.0,"",10,"","",6.0,1941.0
+"Beriev Be-2","Soviet Union",1938,12.0,"",10,"","",12.0,1938.0
+"Beriev Be-4","Soviet Union",1942,47.0,"",10,"","",47.0,1942.0
+"Besson MB.411[notes 8]","France",1935,2.0,"",10,"","",2.0,1935.0
+"CANT Z.506","Italy",1936,354.0,"",10,"","",354.0,1936.0
+"CANT Z.515","Italy",1940,11.0,"",10,"","",11.0,1940.0
+"Curtiss SC Seahawk","United States",1944,577.0,"",10,"","",577.0,1944.0
+"Curtiss SO3C Seamew","United States",1942,795.0,"United Kingdom",10,"","",795.0,1942.0
+"Curtiss SOC Seagull","United States",1935,322.0,"",10,"","",322.0,1935.0
+"Dornier Do 22","Germany",1938,30.0,"Finland, Greece, Yugoslavia",10,"","",30.0,1938.0
+"Fairey Seafox","United Kingdom",1937,66.0,"",10,"","",66.0,1937.0
+"Fairey Swordfish","United Kingdom",1936,2391.0,"",10,"","",2391.0,1936.0
+"Farman NC.470","France",1938,35.0,"",10,"","",35.0,1938.0
+"Fiat RS.14","Italy",1941,186.0,"",10,"","",186.0,1941.0
+"Fokker C.XI-W","Netherlands",1935,14.0,"",10,"","",14.0,1935.0
+"Fokker C.XIV-W","Netherlands",1937,24.0,"",10,"","",24.0,1937.0
+"Fokker T.IV","Netherlands",1927,33.0,"",10,"","",33.0,1927.0
+"Fokker T.VIII","Netherlands",1938,36.0,"Germany, United Kingdom",10,"","",36.0,1938.0
+"Gourdou-Leseurre GL-810-813 HY","France",1930,86.0,"",10,"","",86.0,1930.0
+"Gourdou-Leseurre GL-832 HY","France",1930,22.0,"",10,"","",22.0,1930.0
+"Heinkel HE 8[notes 9]","Germany",1927,22.0,"Denmark",10,"","",22.0,1927.0
+"Heinkel He 42 floatplane trainer","Germany",1929,"","Bulgaria",10,"","","",1929.0
+"Heinkel He 59","Germany",1935,142.0,"Finland",10,"","",142.0,1935.0
+"Heinkel He 60","Germany",1933,361.0,"Bulgaria",10,"","",361.0,1933.0
+"Heinkel He 114","Germany",1939,"","Romania",10,"","","",1939.0
+"Heinkel He 115","Germany",1939,138.0,"Finland, Norway, UK",10,"","",138.0,1939.0
+"IMAM Ro.43","Italy",1935,193.0,"",10,"","",193.0,1935.0
+"IMAM Ro.44","Italy",1936,35.0,"",10,"","",35.0,1936.0
+"Kawanishi E7K","Japan",1935,533.0,"",10,"","",533.0,1935.0
+"Kawanishi N1K Kyōfū","Japan",1944,1532.0,"",10,"","",1532.0,1944.0
+"Latécoère 290","France",1934,35.0,"",10,"","",35.0,1934.0
+"Latécoère 298","France",1938,121.0,"Germany",10,"","",121.0,1938.0
+"Levasseur PL.15","France",1933,17.0,"",10,"","",17.0,1933.0
+"Lioré et Olivier LeO H-43","France",1940,21.0,"",10,"","",21.0,1940.0
+"Lublin R.VIII floatplane trainer","Poland",1928,6.0,"",10,"","",6.0,1928.0
+"Marinens Flyvebaatfabrikk/Høver M.F.8 floatplane trainer","Norway",1924,8.0,"",10,"","",8.0,1924.0
+"Marinens Flyvebaatfabrikk/Høver M.F.10","Norway",1929,4.0,"",10,"","",4.0,1929.0
+"Marinens Flyvebaatfabrikk/Høver M.F.11 floatplane trainer","Norway",1932,29.0,"Finland",10,"","",29.0,1932.0
+"Mitsubishi F1M","Japan",1941,944.0,"",10,"","",944.0,1941.0
+"Nakajima A6M2-N","Japan",1942,327.0,"",10,"","",327.0,1942.0
+"Nakajima E8N","Japan",1935,755.0,"Thailand",10,"","",755.0,1935.0
+"Northrop Delta","United States",1936,32.0,"Canada",10,"","",32.0,1936.0
+"Northrop N-3PB","United States",1940,24.0,"Norway",10,"","",24.0,1940.0
+"Rogožarski SIM-XII-H","Yugoslavia",1938,9.0,"",10,"","",9.0,1938.0
+"Rogožarski SIM-XIV-H","Yugoslavia",1939,19.0,"",10,"","",19.0,1939.0
+"VL Sääski floatplane trainer","Finland",1928,38.0,"",10,"","",38.0,1928.0
+"Vought OS2U Kingfisher","United States",1938,1519.0,"Australia, United Kingdom",10,"","",1519.0,1938.0
+"Watanabe E9W[notes 8]","Japan",1938,35.0,"",10,"","",35.0,1938.0
+"Watanabe K6W/WS-103","Japan",1938,"","Thailand",10,"","","",1938.0
+"Yokosuka E14Y[notes 8]","Japan",1941,126.0,"",10,"","",126.0,1941.0
+"Yokosuka K4Y","Japan",1933,211.0,"",10,"","",211.0,1933.0
+"Aeronca L-3","United States","1941","","Brazil",11,"","","",1941.0
+"Airspeed Envoy","United Kingdom","1934",52.0,"Finland, South Africa",11,"","",52.0,1934.0
+"Arado Ar 232","Germany","1943",20.0,"",11,"","",20.0,1943.0
+"Armstrong Whitworth Albemarle","United Kingdom","1940",602.0,"Soviet Union",11,"","",602.0,1940.0
+"AVIA FL.3","Italy","1939",336.0,"Croatia, Germany",11,"","",336.0,1939.0
+"Avro 652","United Kingdom","1935",2.0,"",11,"","",2.0,1935.0
+"Avro Lancastrian","United Kingdom","1945",91.0,"",11,"","",91.0,1945.0
+"Avro York","United Kingdom","1944",262.0,"",11,"","",262.0,1944.0
+"Barkley-Grow T8P-1","United States","1937",11.0,"Canada",11,"","",11.0,1937.0
+"Beechcraft 17 Staggerwing/UC-43 Traveler","United States","1933",785.0,"Australia, Brazil, Finland, New Zealand, United Kingdom",11,"","",785.0,1933.0
+"Beechcraft Model 18/C-45/JRB/Expeditor[notes 10]","United States","1937",9000.0,"Brazil, Canada, France, Philippines, United Kingdom",11,"","",9000.0,1937.0
+"Bellanca Aircruiser","United States","1930",23.0,"Canada, Mexico, Philippines",11,"","",23.0,1930.0
+"Beneš-Mráz Be-555 Super Bibi","Czechoslovakia","1936",18.0,"",11,"","",18.0,1936.0
+"Bloch MB.81 ambulance aircraft","France","1935",21.0,"",11,"","",21.0,1935.0
+"Bloch MB.120 mailplane","France","1935",11.0,"",11,"","",11.0,1935.0
+"Boeing 247/UC-73","United States","1933",75.0,"Canada, United Kingdom",11,"","",75.0,1933.0
+"Boeing C-75 Stratoliner","United States","1940",10.0,"",11,"","",10.0,1940.0
+"Boeing C-108 Flying Fortress","United States","1943",4.0,"",11,"","",4.0,1943.0
+"Breda Ba.44","Italy","1934",6.0,"",11,"","",6.0,1934.0
+"Bristol Bombay bomber/transport","United Kingdom","1939",51.0,"",11,"","",51.0,1939.0
+"Bristol Buckingham","United Kingdom","1943",119.0,"",11,"","",119.0,1943.0
+"Budd RB Conestoga","United States","1944",20.0,"",11,"","",20.0,1944.0
+"CAP CAP-4 Paulista","Brazil","1935",1149.0,"",11,"","",1149.0,1935.0
+"Caproni Ca.111","Italy","1932",154.0,"",11,"","",154.0,1932.0
+"Caproni Ca.133","Italy","1935",506.0,"",11,"","",506.0,1935.0
+"Caproni Ca.148","Italy","1938","","Italy, Germany",11,"","","",1938.0
+"Caproni Ca.164","Italy","1938",281.0,"Italy, France",11,"","",281.0,1938.0
+"Caudron C.272","France","1931",700.0,"",11,"","",700.0,1931.0
+"Caudron C.280/C.400/C.410","France","1932",291.0,"",11,"","",291.0,1932.0
+"Caudron C.440 Goéland","France","1934",1702.0,"France, Belgium, Germany",11,"","",1702.0,1934.0
+"Caudron C.480 Frégate","France","1935",27.0,"",11,"","",27.0,1935.0
+"Caudron C.600 Aiglon","France","1935",203.0,"",11,"","",203.0,1935.0
+"Caudron C.635 Simoun","France","1935",680.0,"",11,"","",680.0,1935.0
+"Cessna 165","United States","1935",183.0,"Australia, Finland",11,"","",183.0,1935.0
+"Consolidated C-87/C-109 Liberator Express","United States","1942",287.0,"United Kingdom",11,"","",287.0,1942.0
+"Curtiss-Wright C-46/R5C Commando","United States","1941",3181.0,"",11,"","",3181.0,1941.0
+"de Havilland DH.50","United Kingdom","1923",38.0,"Australia",11,"","",38.0,1923.0
+"de Havilland DH.60 Moth","United Kingdom","1929","","Belgium, China, Denmark, Egypt, Iraq, Netherlands, New Zealand, South Africa",11,"","","",1929.0
+"de Havilland DH.80 Puss Moth","United Kingdom","1930",284.0,"Canada, Iraq, New Zealand",11,"","",284.0,1930.0
+"de Havilland DH.83 Fox Moth","United Kingdom","1932",155.0,"Australia, New Zealand",11,"","",155.0,1932.0
+"de Havilland DH.84 Dragon","United Kingdom","1934",202.0,"Denmark, Iraq, New Zealand, Lithuania",11,"","",202.0,1934.0
+"de Havilland DH.85 Leopard Moth","United Kingdom","1933",133.0,"Australia, Belgium",11,"","",133.0,1933.0
+"de Havilland D.H.86 Express","United Kingdom","1934",62.0,"Australia, New Zealand",11,"","",62.0,1934.0
+"de Havilland DH.89 Dragon Rapide/Dominie","United Kingdom","1934",727.0,"Australia, Belgium, Denmark, Iraq, New Zealand, United States",11,"","",727.0,1934.0
+"de Havilland DH.90 Dragonfly","United Kingdom","1936",67.0,"Australia, Denmark, Iraq",11,"","",67.0,1936.0
+"de Havilland DH.91 Albatross","United Kingdom","1938",7.0,"",11,"","",7.0,1938.0
+"de Havilland DH.94 Moth Minor","United Kingdom","1937",140.0,"Australia, New Zealand",11,"","",140.0,1937.0
+"de Havilland DH.95 Flamingo","United Kingdom","1939",14.0,"",11,"","",14.0,1939.0
+"Desoutter Mk.II","United Kingdom","1941",47.0,"Finland",11,"","",47.0,1941.0
+"Douglas C-47/R4D Skytrain/Dakota","United States","1941",10174.0,"Brazil, Canada, France, India, Netherlands, New Zealand, United Kingdom",11,"","",10174.0,1941.0
+"Douglas C-54/R5D Skymaster","United States","1942",1170.0,"United Kingdom",11,"","",1170.0,1942.0
+"Douglas DC-2/C-32","United States","1934",198.0,"Australia, Finland, Japan, Netherlands, Soviet Union, United Kingdom",11,"","",198.0,1934.0
+"Douglas DC-3","United States","1935",607.0,"Canada, Japan, Soviet Union",11,"","",607.0,1935.0
+"Douglas DC-5/C-110/R3D","United States","1940",12.0,"Australia, Japan",11,"","",12.0,1940.0
+"Fairchild 24 Argus/UC-61 Forwarder","United States","1932",2232.0,"Australia, Brazil, Canada, Thailand, United Kingdom",11,"","",2232.0,1932.0
+"Fairchild 71","United States","1926","","Canada",11,"","","",1926.0
+"Fairchild 82","Canada","1935",24.0,"Argentina",11,"","",24.0,1935.0
+"Fairchild C-82 Packet","United States","1944",223.0,"",11,"","",223.0,1944.0
+"Fairchild FC-2/51","United States","1926",180.0,"Canada",11,"","",180.0,1926.0
+"Fairchild Super 71","Canada","1934",4.0,"",11,"","",4.0,1934.0
+"Farman F.190","France","1928",158.0,"",11,"","",158.0,1928.0
+"Farman F.402","France","1934","","",11,"","","",1934.0
+"Farman F.224","France","1932",80.0,"",11,"","",80.0,1932.0
+"Fiat G.12","Italy","1941",104.0,"Germany, Hungary",11,"","",104.0,1941.0
+"Fiat G.18","Italy","1936",9.0,"",11,"","",9.0,1936.0
+"Fieseler Fi 156 Storch","Germany","1936",2900.0,"Bulgaria, Finland, Hungary, Italy, Slovakia, Yugoslavia",11,"","",2900.0,1936.0
+"Fleet Freighter","Canada","1938",5.0,"",11,"","",5.0,1938.0
+"Fokker F.VII","Netherlands","1925","","Finland, Poland",11,"","","",1925.0
+"Fokker Super Universal/Nakajima Ki-6/C2N","United States","1931","","Japan, Manchukuo",11,"","","",1931.0
+"Ford Trimotor","United States","1926",199.0,"Australia",11,"","",199.0,1926.0
+"Foster Wikner Wicko","United Kingdom","1936",10.0,"New Zealand",11,"","",10.0,1936.0
+"Gotha Go 244","Germany","1942",174.0,"",11,"","",174.0,1942.0
+"Handley Page Halifax/Halton[notes 11]","United Kingdom","1940",6176.0,"",11,"","",6176.0,1940.0
+"Handley Page Harrow bomber/transport[notes 12]","United Kingdom","1937",100.0,"Canada",11,"","",100.0,1937.0
+"Hanriot H.182","France","1934",392.0,"",11,"","",392.0,1934.0
+"Harlow C-80/PJC-2","United States","1937",11.0,"United Kingdom",11,"","",11.0,1937.0
+"Heinkel He 116 mailplane","Germany","1938",14.0,"",11,"","",14.0,1938.0
+"Howard UC-70/GH Nightingale","United States","1939",520.0,"",11,"","",520.0,1939.0
+"IMAM Ro.63","Italy","1940",6.0,"",11,"","",6.0,1940.0
+"Interstate Cadet/L-6 Grasshopper","United States","1942",574.0,"Norway",11,"","",574.0,1942.0
+"Junkers F 13[notes 13]","Germany","1920",322.0,"Finland",11,"","",322.0,1920.0
+"Junkers G 24","Germany","1925",115.0,"Greece",11,"","",115.0,1925.0
+"Junkers G 31","Germany","1926",13.0,"Australia",11,"","",13.0,1926.0
+"Junkers Ju 52","Germany","1932",4845.0,"Greece, Bulgaria, Norway",11,"","",4845.0,1932.0
+"Junkers Ju 90","Germany","1938",18.0,"",11,"","",18.0,1938.0
+"Junkers Ju 252","Germany","1942",15.0,"",11,"","",15.0,1942.0
+"Junkers Ju 290","Germany","1942",65.0,"",11,"","",65.0,1942.0
+"Junkers Ju 352","Germany","1944",50.0,"",11,"","",50.0,1944.0
+"Junkers W 34 & K 43","Germany","1926","","Australia, Finland, Norway",11,"","","",1926.0
+"Kawanishi H6K2-L/H6K-3/H6K4-L","Japan","1936",215.0,"",11,"","",215.0,1936.0
+"Kawanishi H8K2-L Seikū","Japan","1941",167.0,"",11,"","",167.0,1941.0
+"Kawasaki Ki-56","Japan","1940",121.0,"",11,"","",121.0,1940.0
+"Kokusai Ki-59","Japan","1941",59.0,"",11,"","",59.0,1941.0
+"Kokusai Ki-76","Japan","1942",937.0,"",11,"","",937.0,1942.0
+"Laville PS-89","United States","1935",7.0,"",11,"","",7.0,1935.0
+"Lisunov Li-2","Soviet Union","1939",6152.0,"",11,"","",6152.0,1939.0
+"Lockheed UC-101 Vega","United States","1928",132.0,"Australia",11,"","",132.0,1928.0
+"Lockheed 9/UC-85 Orion","United States","1931",35.0,"",11,"","",35.0,1931.0
+"Lockheed 10/C-36 Electra","United States","1935",149.0,"Canada, United Kingdom",11,"","",149.0,1935.0
+"Lockheed 12/UC-40 Electra Junior","United States","1936",130.0,"Canada, Netherlands, United Kingdom",11,"","",130.0,1936.0
+"Lockheed 14 Super Electra","United States","1937",354.0,"Canada, Japan, South Africa, United Kingdom",11,"","",354.0,1937.0
+"Lockheed 18/C-60 Lodestar","United States","1937",625.0,"Australia, Brazil, Canada, New Zealand, South Africa, United Kingdom",11,"","",625.0,1937.0
+"Lockheed C-69 Constellation","United States","1943",22.0,"",11,"","",22.0,1943.0
+"Lublin R-XVI","Poland","1932",7.0,"",11,"","",7.0,1932.0
+"Messerschmitt Bf 108 Taifun","Germany","1934",885.0,"Bulgaria, Croatia, Hungary, Italy, Japan, Romania, United Kingdom, Yugoslavia",11,"","",885.0,1934.0
+"Messerschmitt Me 323 Gigant","Germany","1943",198.0,"",11,"","",198.0,1943.0
+"Miles Falcon","United Kingdom","1934",36.0,"Australia",11,"","",36.0,1934.0
+"Miles Mentor","United Kingdom","1938",45.0,"",11,"","",45.0,1938.0
+"Miles Merlin","United Kingdom","1935",4.0,"Australia",11,"","",4.0,1935.0
+"Miles Messenger","United States","1942",93.0,"",11,"","",93.0,1942.0
+"Miles Monarch","United States","1938",11.0,"",11,"","",11.0,1938.0
+"Miles Whitney Straight","United Kingdom","1936",50.0,"New Zealand",11,"","",50.0,1936.0
+"Mitsubishi G6M1-L2","Japan","1941",30.0,"",11,"","",30.0,1941.0
+"Mitsubishi K3M","Japan","1931",625.0,"",11,"","",625.0,1931.0
+"Mitsubishi Ki-20","Germany, Japan","1932",6.0,"",11,"","",6.0,1932.0
+"Mitsubishi Ki-57/L4M","Japan","1942",406.0,"",11,"","",406.0,1942.0
+"Mitsubishi L3Y","Japan","1935","","",11,"","","",1935.0
+"Moskalyev SAM-5","Soviet Union","1935",40.0,"",11,"","",40.0,1935.0
+"Nakajima Ki-4[notes 14]","Japan","1934",516.0,"Manchukuo",11,"","",516.0,1934.0
+"Nakajima Ki-34/L1N1","Japan","1936",351.0,"",11,"","",351.0,1936.0
+"Noorduyn Norseman","Canada","1935",904.0,"Australia, Brazil, United States",11,"","",904.0,1935.0
+"Northrop Delta[notes 5]","United States","1933",32.0,"Canada, Australia",11,"","",32.0,1933.0
+"Percival Gull","United Kingdom","1932",48.0,"New Zealand",11,"","",48.0,1932.0
+"Percival Petrel","United Kingdom","1937",27.0,"",11,"","",27.0,1937.0
+"Percival Proctor","United Kingdom","1939",1143.0,"",11,"","",1143.0,1939.0
+"Percival Vega Gull","United Kingdom","1935",90.0,"Australia, Belgium, New Zealand",11,"","",90.0,1935.0
+"Piper J-3, L-4, O-59 and NE-1","United States","1938",20219.0,"Brazil",11,"","",20219.0,1938.0
+"Piper J-4","United States","1938",1251.0,"United Kingdom",11,"","",1251.0,1938.0
+"Polikarpov U-2","Soviet Union","1927",20000.0,"",11,"","",20000.0,1927.0
+"Porterfield 35","United States","1935",240.0,"New Zealand",11,"","",240.0,1935.0
+"Potez 29","France","1927",146.0,"",11,"","",146.0,1927.0
+"Potez 56","France","1934",72.0,"",11,"","",72.0,1934.0
+"Potez 58","France","1934",202.0,"",11,"","",202.0,1934.0
+"Potez 62","France","1935","","",11,"","","",1935.0
+"Potez 650","France","1937",15.0,"",11,"","",15.0,1937.0
+"Putilov Stal-3","Soviet Union","1933",79.0,"",11,"","",79.0,1933.0
+"PWS-24bis","Poland","1933",11.0,"Romania",11,"","",11.0,1933.0
+"Rearwin Sportster","United States","1935",273.0,"New Zealand, Thailand",11,"","",273.0,1935.0
+"RWD 10","Poland","1935",23.0,"",11,"","",23.0,1935.0
+"RWD 13","Poland","1935",100.0,"Romania",11,"","",100.0,1935.0
+"RWD 15","Poland","1937",6.0,"Romania",11,"","",6.0,1937.0
+"SAI KZ II","Denmark","1937",45.0,"",11,"","",45.0,1937.0
+"SAIMAN 202","Italy","1939",390.0,"Croatia",11,"","",390.0,1939.0
+"Savoia-Marchetti S.73","Italy","1934",53.0,"Belgium, United Kingdom",11,"","",53.0,1934.0
+"Savoia-Marchetti S.74","Italy","1934",3.0,"",11,"","",3.0,1934.0
+"Savoia-Marchetti SM.75","Italy","1938",90.0,"Hungary, Germany",11,"","",90.0,1938.0
+"Savoia-Marchetti SM.82","Italy","1940",727.0,"Germany",11,"","",727.0,1940.0
+"Savoia-Marchetti S.83","Italy","1938",23.0,"Belgium, Romania",11,"","",23.0,1938.0
+"SFCA Taupin","France","1936",53.0,"",11,"","",53.0,1936.0
+"Shcherbakov Shche-2","Soviet Union","1943",550.0,"",11,"","",550.0,1943.0
+"Short Stirling[notes 11][notes 15]","United Kingdom","1943","","",11,"","","",1943.0
+"Showa/Nakajima L2D","Japan","1939",487.0,"",11,"","",487.0,1939.0
+"Siebel Si 204","Germany","1942",1216.0,"",11,"","",1216.0,1942.0
+"Spartan UC-71 Executive","United States","1936",36.0,"Canada, China, United Kingdom",11,"","",36.0,1936.0
+"Stinson L-1/O-49 Vigilant","United States","1941",324.0,"United Kingdom",11,"","",324.0,1941.0
+"Stinson L-5 Sentinel","United States","1942",3590.0,"United Kingdom, United States",11,"","",3590.0,1942.0
+"Stinson Reliant","United States","1933",1327.0,"Australia, Norway, Philippines, United Kingdom",11,"","",1327.0,1933.0
+"Stinson Voyager","United States","1939",1052.0,"Canada, France",11,"","",1052.0,1939.0
+"Tachikawa Ki-54","Japan","1940",1368.0,"",11,"","",1368.0,1940.0
+"Taylorcraft Auster","United Kingdom","1942",1630.0,"Australia",11,"","",1630.0,1942.0
+"Taylorcraft D","United States","1941",3170.0,"",11,"","",3170.0,1941.0
+"Taylorcraft L-2","United States","1941",1984.0,"",11,"","",1984.0,1941.0
+"Tugan Gannet","Australia","1935",8.0,"",11,"","",8.0,1935.0
+"Tupolev ANT-9","Soviet Union","1931",100.0,"",11,"","",100.0,1931.0
+"Tupolev PS-35","Soviet Union","1937",11.0,"",11,"","",11.0,1937.0
+"Vickers Type 264 Valentia bomber/transport","United Kingdom","1934","","",11,"","","",1934.0
+"Vickers Warwick","United Kingdom","1939",114.0,"South Africa",11,"","",114.0,1939.0
+"Waco UC-72 (and other Waco variants)","United States","1930s",42.0,"Australia, Brazil, New Zealand, Norway, United Kingdom",11,"","",42.0,1930.0
+"Yakovlev Yak-6","Soviet Union","1942",381.0,"",11,"","",381.0,1942.0
+"Yokosuka L3Y","Japan","1935","","",11,"","","",1935.0
+"Airspeed Horsa","United Kingdom",1942,3655,"United States",12,"","",3655.0,1942.0
+"Antonov A-7","Soviet Union",1942,400,"",12,"","",400.0,1942.0
+"de Havilland Australia DHA-G","Australia",1942,8,"",12,"","",8.0,1942.0
+"DFS 230","Germany",1938,1600,"",12,"","",1600.0,1938.0
+"General Aircraft Hamilcar","United Kingdom",1942,344,"",12,"","",344.0,1942.0
+"Gotha Go 242","Germany",1941,1528,"",12,"","",1528.0,1941.0
+"Gribovski G-11","Soviet Union",1941,500,"",12,"","",500.0,1941.0
+"Kokusai Ku-8","Japan",1941,700,"",12,"","",700.0,1941.0
+"Kolesnikov-Tsibin KC-20","Soviet Union",1942,68,"",12,"","",68.0,1942.0
+"Maeda Ku-1","Japan",1941,100,"",12,"","",100.0,1941.0
+"Messerschmitt Me 321 Gigant","Germany",1941,200,"",12,"","",200.0,1941.0
+"Slingsby Hengist","United Kingdom",1942,18,"",12,"","",18.0,1942.0
+"Waco CG-13","United States",1945,135,"",12,"","",135.0,1945.0
+"Waco CG-15","United States",1943,473,"",12,"","",473.0,1943.0
+"Waco CG-3","United States",1942,100,"",12,"","",100.0,1942.0
+"Waco CG-4/Hadrian","United States",1942,13903,"United Kingdom",12,"","",13903.0,1942.0
+"DFS SG 38 Schulgleiter primary training glider","Germany",1938,10000,"Japan",13,"","",10000.0,1938.0
+"General Aircraft Hotspur assault glider trainer","United Kingdom",1940,1015,"",13,"","",1015.0,1940.0
+"Laister-Kauffman TG-4","United States",1941,153,"",13,"","",153.0,1941.0
+"Slingsby Kirby Cadet","United Kingdom",1935,376,"",13,"","",376.0,1935.0
+"Schweizer TG-3","United States",1942,114,"",13,"","",114.0,1942.0
+"Schweizer TG-2/LNS-1","United States",1938,57,"",13,"","",57.0,1938.0
+"Schneider Grunau Baby","Germany",1931,6000,"Denmark",13,"","",6000.0,1931.0
+"ANBO V / 51","Lithuania","1931, 1936",15.0,"Soviet Union (several ANBO 51s)",14,"","",15.0,1931.0
+"Avro 504","United Kingdom","1913",11303.0,"Greece, Thailand",14,"","",11303.0,1913.0
+"Avro 626","United Kingdom","1930",198.0,"Belgium, Canada, Greece, Lithuania, New Zealand",14,"","",198.0,1930.0
+"Avro 643 Cadet","United Kingdom","1932",104.0,"Australia, China",14,"","",104.0,1932.0
+"Avro Tutor","United Kingdom","1933",606.0,"Canada, Denmark, Greece",14,"","",606.0,1933.0
+"Beneš-Mráz Be-50 Beta-Minor","Czechoslovakia","1935","","Germany, Slovakia",14,"","","",1935.0
+"Blackburn B-2","United Kingdom","1932",42.0,"",14,"","",42.0,1932.0
+"Boeing-Stearman Model 73/75/PT-13/PT-17/PT-18/NS/N2S Kaydet","United States","1934",8584.0,"Brazil, Canada, China, Philippines",14,"","",8584.0,1934.0
+"Breda Ba.25 & Ba.28","Italy","1932",766.0,"Hungary, China, Norway",14,"","",766.0,1932.0
+"Bücker Bü 131, Ki-86, K9W1","Germany","1935",5000.0,"Bulgaria, Hungary, Japan, Romania, Yugoslavia",14,"","",5000.0,1935.0
+"Bücker Bü 181","Germany","1940",3400.0,"Bulgaria",14,"","",3400.0,1940.0
+"CAC Wackett","Australia","1941",202.0,"",14,"","",202.0,1941.0
+"Caproni Ca.113","Italy","1931",107.0,"Bulgaria, Peru, Portugal",14,"","",107.0,1931.0
+"Caproni Ca.164","Italy","1938",281.0,"France",14,"","",281.0,1938.0
+"Consolidated PT-1 Trusty","United States","1921",221.0,"Philippines, Thailand",14,"","",221.0,1921.0
+"DAR 9 Siniger","Bulgaria","1940",42.0,"Yugoslavia",14,"","",42.0,1940.0
+"de Havilland DH.60 Moth","United Kingdom","1925",1535.0,"Australia, Denmark, Finland, Iraq, New Zealand, Norway",14,"","",1535.0,1925.0
+"de Havilland Tiger Moth[notes 16]","United Kingdom","1932",8868.0,"Australia, Brazil, Canada, Denmark, India, Iraq, New Zealand, Norway",14,"","",8868.0,1932.0
+"Fairchild PT-19/23/26 Cornell","United States","1940",7700.0,"Brazil, Canada, Norway",14,"","",7700.0,1940.0
+"Fleet Fawn","Canada","1931",71.0,"Brazil",14,"","",71.0,1931.0
+"Fleet 10/16/Finch","Canada","1939",606.0,"China, Brazil, Romania",14,"","",606.0,1939.0
+"Focke-Wulf Fw 44","Germany","1932",1900.0,"Brazil, Bulgaria, China, Czechoslovakia, Finland, Hungary, Poland, Romania, Slovakia",14,"","",1900.0,1932.0
+"Fokker S.IV","Netherlands","1924",31.0,"",14,"","",31.0,1924.0
+"Fokker S.IX","Netherlands","1937",50.0,"",14,"","",50.0,1937.0
+"Gotha Go 145","Germany","1935",1182.0,"",14,"","",1182.0,1935.0
+"Hanriot H.43","France","1928",160.0,"",14,"","",160.0,1928.0
+"Hanriot H.16","France","1930",54.0,"",14,"","",54.0,1930.0
+"Heinkel He 72","Germany","1933","","Bulgaria",14,"","","",1933.0
+"Kawasaki Army Type 92 Fighter","Japan","1930",385.0,"",14,"","",385.0,1930.0
+"Klemm Kl 25","Germany","1928",720.0,"Norway",14,"","",720.0,1928.0
+"Koolhoven F.K.51","Netherlands","1935",142.0,"",14,"","",142.0,1935.0
+"Letov Š-218","Czechoslovakia","1930","","Finland",14,"","","",1930.0
+"Meyers OTW CPTP trainer","United States","1936",102.0,"",14,"","",102.0,1936.0
+"Miles Hawk","United Kingdom","1933",55.0,"New Zealand",14,"","",55.0,1933.0
+"Miles Magister","United Kingdom","1937",1303.0,"Norway",14,"","",1303.0,1937.0
+"Morane-Saulnier MS.230","France","1930",1000.0,"Germany, Greece",14,"","",1000.0,1930.0
+"Morane-Saulnier MS.315","France","1932",356.0,"",14,"","",356.0,1932.0
+"Mráz Zobor I[3]","Slovakia","1942",18.0,"",14,"","",18.0,1942.0
+"Naval Aircraft Factory N3N Canary","United States","1936",997.0,"",14,"","",997.0,1936.0
+"North American NA-16","United States","1935",1935.0,"China, Brazil",14,"","",1935.0,1935.0
+"North American BT-9/BT-14/NJ","United States","1936",260.0,"",14,"","",260.0,1936.0
+"Piper J-4","United States","1938",1251.0,"",14,"","",1251.0,1938.0
+"Ryan PT-16/20/21/22 Recruit","United States","1934",1568.0,"Australia, Netherlands",14,"","",1568.0,1934.0
+"RWD 8","Poland","1934",550.0,"Latvia, Romania, Hungary, Yugoslavia",14,"","",550.0,1934.0
+"RWD 17","Poland","1938",30.0,"Romania",14,"","",30.0,1938.0
+"Polikarpov Po-2","Soviet Union","1929",20000.0,"",14,"","",20000.0,1929.0
+"Praga E-39","Czechoslovakia","1931",139.0,"",14,"","",139.0,1931.0
+"PWS-16","Poland","1933",40.0,"Spain",14,"","",40.0,1933.0
+"Repülőgépgyár Levente II","Hungary","1943",88.0,"",14,"","",88.0,1943.0
+"SAIMAN 200","Italy","1940",140.0,"Croatia, Germany",14,"","",140.0,1940.0
+"Spartan NP-1","United States","1940",201.0,"",14,"","",201.0,1940.0
+"Tachikawa Ki-9","Japan","1935",2618.0,"",14,"","",2618.0,1935.0
+"Tachikawa Ki-17","Japan","1936",560.0,"",14,"","",560.0,1936.0
+"Timm N2T Tutor","United States","1943",262.0,"",14,"","",262.0,1943.0
+"VL Sääski","Finland","1928",38.0,"",14,"","",38.0,1928.0
+"VL Viima","Finland","1935",24.0,"",14,"","",24.0,1935.0
+"Vultee BT-13/15/SNV Valiant","United States","1939",9525.0,"Brazil",14,"","",9525.0,1939.0
+"Waco UPF-7/PT-14 CPTP trainer","United States","1930","","",14,"","","",1930.0
+"Weiss WM-10 Ölyv","Hungary","1933",14.0,"",14,"","",14.0,1933.0
+"Yokosuka K5Y","Japan","1934",5770.0,"",14,"","",5770.0,1934.0
+"Yakovlev UT-2","Soviet Union","1937",7243.0,"",14,"","",7243.0,1937.0
+"Zlín Z-XII","Czechoslovakia","1935",252.0,"Germany, Slovakia, UK, Yugoslavia",14,"","",252.0,1935.0
+"Ambrosini S.7","Italy",1943,12.0,"",15,"","",12.0,1943.0
+"Ambrosini SAI.10 Grifone","Italy",1940,10.0,"",15,"","",10.0,1940.0
+"Arado Ar 65[notes 14]","Germany",1931,85.0,"",15,"","",85.0,1931.0
+"Arado Ar 66","Germany",1933,1456.0,"",15,"","",1456.0,1933.0
+"Arado Ar 68[notes 14]","Germany",1936,511.0,"",15,"","",511.0,1936.0
+"Arado Ar 96","Germany",1939,2891.0,"Bulgaria, Hungary, Romania",15,"","",2891.0,1939.0
+"Avia B.122","Czechoslovakia",1934,"","Bulgaria, Germany, Romania, Slovakia, Soviet Union",15,"","","",1934.0
+"Bücker Bü 133","Germany",1938,250.0,"Hungary, Lithuania, Yugoslavia",15,"","",250.0,1938.0
+"CAC Wirraway","Australia",1939,755.0,"",15,"","",755.0,1939.0
+"Kaproni Bulgarski KB-2/3/4/5","Bulgaria",1931,"","",15,"","","",1931.0
+"Caudron C.690","France",1939,19.0,"",15,"","",19.0,1939.0
+"Curtiss-Wright CW-22/SNC Falcon","United States",1942,442.0,"Netherlands",15,"","",442.0,1942.0
+"Focke-Wulf Fw 56","Germany",1935,1000.0,"",15,"","",1000.0,1935.0
+"Fokker D.XVII[notes 14]","Netherlands",1932,12.0,"",15,"","",12.0,1932.0
+"Hawker Hart Trainer","United Kingdom",1930,"","",15,"","","",1930.0
+"I.Ae. 22 DL","Argentina",1944,206.0,"",15,"","",206.0,1944.0
+"IMAM Ro.41","Italy",1935,744.0,"",15,"","",744.0,1935.0
+"Koolhoven F.K.56","Netherlands",1938,31.0,"Belgium",15,"","",31.0,1938.0
+"Messerschmitt Bf 108","Germany",1935,885.0,"Brazil, Bulgaria, China Croatia, Czechoslovakia, France, Hungary, Italy, Japan, Manchukuo, Norway, Poland, Romania, Spain, Switzerland, Soviet Union, United Kingdom, United States, Yugoslavia",15,"","",885.0,1935.0
+"Miles Master","United Kingdom",1939,3249.0,"",15,"","",3249.0,1939.0
+"Mitsubishi A5M4-K[notes 17]","Japan",1936,1094.0,"",15,"","",1094.0,1936.0
+"Mitsubishi A6M2-K Zero[notes 17]","Japan",1940,517.0,"",15,"","",517.0,1940.0
+"Morane-Saulnier M.S.225[notes 14]","France",1933,75.0,"",15,"","",75.0,1933.0
+"Muniz M-9","Brazil",1937,56.0,"",15,"","",56.0,1937.0
+"Mansyu Ki-79","Japan",1937,1329.0,"",15,"","",1329.0,1937.0
+"Nardi FN.305","Italy",1938,211.0,"Romania, Hungary, France",15,"","",211.0,1938.0
+"Nardi FN.316","Italy",1942,49.0,"Germany",15,"","",49.0,1942.0
+"Nieuport-Delage NiD 62[notes 14]","France",1931,"","",15,"","","",1931.0
+"North American NA-16","United States",1935,1935.0,"France, Germany",15,"","",1935.0,1935.0
+"North American NA-64 Yale","United States",1940,230.0,"Canada, France, Germany",15,"","",230.0,1940.0
+"North American P-64[notes 18]","United States",1940,13.0,"",15,"","",13.0,1940.0
+"North American T-6/SNJ Texan/Harvard[notes 5]","United States",1935,15495.0,"Brazil, Canada, India, New Zealand, Norway, United Kingdom",15,"","",15495.0,1935.0
+"Orlogsværftet O-Maskinen","Denmark",1926,"","",15,"","","",1926.0
+"Praga BH-41","Czechoslovakia",1931,"","",15,"","","",1931.0
+"PTO-4","Estonia",1938,8.0,"Germany",15,"","",8.0,1938.0
+"PWS-26","Poland",1937,310.0,"Romania, Germany",15,"","",310.0,1937.0
+"Rogožarski PVT","Yugoslavia",1934,61.0,"",15,"","",61.0,1934.0
+"Rogožarski R-100","Yugoslavia",1939,25.0,"",15,"","",25.0,1939.0
+"Rogožarski SIM-X","Yugoslavia",1937,21.0,"",15,"","",21.0,1937.0
+"Romano R.82","France",1937,180.0,"",15,"","",180.0,1937.0
+"SET 7","Romania",1931,123.0,"",15,"","",123.0,1931.0
+"Stampe et Vertongen SV.5 Tornado","Belgium",1933,32.0,"Latvia",15,"","",32.0,1933.0
+"Tachikawa Ki-55","Japan",1940,1389.0,"Japan, Thailand",15,"","",1389.0,1940.0
+"Svenska Aero Jaktfalken","Sweden",1930,19.0,"Finland",15,"","",19.0,1930.0
+"THK-2","Turkey",1944,6.0,"",15,"","",6.0,1944.0
+"VEF I-12","Latvia",1935,12.0,"",15,"","",12.0,1935.0
+"VL Tuisku","Finland",1935,31.0,"",15,"","",31.0,1935.0
+"VL Pyry","Finland",1941,41.0,"",15,"","",41.0,1941.0
+"Yakovlev UT-1","Soviet Union",1936,1241.0,"China",15,"","",1241.0,1936.0
+"Zmaj Fizir FN","Yugoslavia",1931,210.0,"Croatia, Italy",15,"","",210.0,1931.0
+"Zmaj Fizir FP-2","Yugoslavia",1936,81.0,"Croatia, Italy",15,"","",81.0,1936.0
+"Airspeed Oxford","United Kingdom","1937",8851.0,"Australia, Canada, New Zealand, Norway",16,"","",8851.0,1937.0
+"Avro 504N","United Kingdom","1913; 7 Impressed 1940","","",16,"target tug","","",1913.0
+"Avro Anson T20/T21/T22[notes 5]","United Kingdom, Canada","1936",366.0,"Greece, France, United States",16,"","",366.0,1936.0
+"Blackburn Botha","United Kingdom","1939","","",16,"bomber trainer & target tug","","",1939.0
+"Bristol Buckmaster","United Kingdom","1945",112.0,"",16,"","",112.0,1945.0
+"Beechcraft AT-10 Wichita","United States","1942",2371.0,"",16,"","",2371.0,1942.0
+"Cessna AT-8/AT-17/UC-78/JRC Bobcat/Crane","United States","1939",5422.0,"Brazil, Canada, France",16,"","",5422.0,1939.0
+"Consolidated AT-22/TB-24 Liberator","United States","1943",287.0,"",16,"","",287.0,1943.0
+"CANT Z.1015","Italy","1939",660.0,"",16,"torpedo bomber trainer","",660.0,1939.0
+"Curtiss AT-9","United States","1941",792.0,"",16,"","",792.0,1941.0
+"De Havilland Dominie","United Kingdom","1940",727.0,"",16,"radio trainer","",727.0,1940.0
+"Fairchild AT-21 Gunner","United States","1943",175.0,"",16,"","",175.0,1943.0
+"Fairey IIIF","United Kingdom","1926",968.0,"",16,"target tug","",968.0,1926.0
+"Fairey Battle[notes 14]","United Kingdom","1939",2201.0,"Australia, Canada, South Africa, Greece",16,"","",2201.0,1939.0
+"Fairey Gordon[notes 14]","United Kingdom","1931",186.0,"Australia",16,"","",186.0,1931.0
+"Fleet Fort","Canada","1941",101.0,"",16,"intermediate trainer/radio trainer","",101.0,1941.0
+"Focke-Wulf Fw 58","Germany","1937",1350.0,"Brazil, Bulgaria, Croatia, Finland, Hungary, Netherlands, Romania",16,"","",1350.0,1937.0
+"Hanriot H.232","France","1940",35.0,"Finland",16,"","",35.0,1940.0
+"Hawker Demon","United Kingdom","1930",35.0,"Australia",16,"target tug","",35.0,1930.0
+"Hawker Henley","United Kingdom","1938",202.0,"",16,"target tug","",202.0,1938.0
+"Kyushu K10W","Japan","1943",176.0,"",16,"intermediate trainer/target tug","",176.0,1943.0
+"Kyushu K11W","Japan","1943",798.0,"",16,"bomber crew trainer","",798.0,1943.0
+"Lockheed AT-18 Hudson","United States","1938",217.0,"",16,"","",217.0,1938.0
+"LWS-6/PZL.30 Żubr[notes 14]","Poland","1938",17.0,"",16,"","",17.0,1938.0
+"Martin AT-23/TB-26","United States","1940",300.0,"",16,"","",300.0,1940.0
+"Miles Martinet","United Kingdom","1942",1724.0,"",16,"target tug","",1724.0,1942.0
+"Miles Mentor","United Kingdom","1938",45.0,"",16,"radio trainer","",45.0,1938.0
+"Mitsubishi K7M","Japan","1931",2.0,"",16,"","",2.0,1931.0
+"Nardi FN.315","Italy","1938",33.0,"",16,"intermediate trainer","",33.0,1938.0
+"North American AT-24/TB-25 Mitchell","United States","1941",354.0,"",16,"","",354.0,1941.0
+"Percival Proctor","United Kingdom","1939",1143.0,"",16,"radio trainer","",1143.0,1939.0
+"Potez 56","France","1936",72.0,"",16,"crew trainer/target tug","",72.0,1936.0
+"Stinson Reliant","United States","1933",1327.0,"United Kingdom",16,"","",1327.0,1933.0
+"Tachikawa Ki-54","Japan","1941",1368.0,"",16,"","",1368.0,1941.0
+"Westland Wallace[notes 14]","United Kingdom","1933",172.0,"",16,"","",172.0,1933.0
+"Yokosuka K4Y","Japan","1933",211.0,"",16,"floatplane trainer","",211.0,1933.0
+"Cierva C.30","United Kingdom",1934,148.0,"Belgium, France, Germany",17,"autogyro","",148.0,1934.0
+"Flettner Fl 282","Germany",1942,24.0,"",17,"helicopter","",24.0,1942.0
+"Focke-Achgelis Fa 330[notes 8]","Germany",1943,200.0,"",17,"autogyro kite","",200.0,1943.0
+"Focke-Achgelis Fa 223 Drache","Germany",1942,24.0,"Germany",17,"Helicopter","",24.0,1942.0
+"Kamov A-7","Soviet Union",1934,7.0,"",17,"autogyro","",7.0,1934.0
+"Kayaba Ka-1 and Ka-2","Japan",1941,98.0,"",17,"autogyro","",98.0,1941.0
+"Pitcairn PA-39[notes 19]","United States",1940,"","United Kingdom",17,"autogyro","","",1940.0
+"Sikorsky R-4","United States",1944,131.0,"United Kingdom",17,"helicopter","",131.0,1944.0
+"Sikorsky R-6","United States",1945,225.0,"United Kingdom",17,"helicopter","",225.0,1945.0
+"Goodyear G class blimp","United States",1935,10,"",18,"patrol blimp","",10.0,1935.0
+"Goodyear K class blimp","United States",1938,132,"",18,"patrol blimp","",132.0,1938.0
+"Goodyear L class blimp","United States",1938,22,"",18,"training blimp","",22.0,1938.0
+"Goodyear M class blimp","United States",1944,4,"",18,"patrol blimp","",4.0,1944.0
+"Aeronautica Lombarda A.R.","Italy",1943,"","",19,"radio controlled flying bomb","","",1943.0
+"Airspeed AS.30 Queen Wasp","United Kingdom",1937,7.0,"",19,"target drone","",7.0,1937.0
+"Culver PQ-8","United States",1940,600.0,"",19,"target drone","",600.0,1940.0
+"Culver PQ-14 Cadet","United States",1942,2043.0,"",19,"target drone","",2043.0,1942.0
+"de Havilland DH.82 Queen Bee","United Kingdom",1935,412.0,"",19,"target drone","",412.0,1935.0
+"Fieseler Fi 103R","Germany",1944,175.0,"",19,"manned missile","",175.0,1944.0
+"Henschel Hs 293","Germany",1943,100.0,"",19,"guided missile","",100.0,1943.0
+"Interstate TDR","United States",1944,195.0,"",19,"assault drone","",195.0,1944.0
+"Kawasaki Ki-148","Japan",1944,180.0,"",19,"guided missile","",180.0,1944.0
+"McDonnell TD2D Katydid","United States",1942,"","",19,"target drone","","",1942.0
+"Mitsubishi Ki-147","Japan",1944,10.0,"",19,"guided missile","",10.0,1944.0
+"Naval Aircraft Factory TDN","United States",1942,104.0,"",19,"assault drone","",104.0,1942.0
+"Naval Aircraft Modification Unit KDN Gorgon","United States",1945,19.0,"",19,"target drone","",19.0,1945.0
+"Radioplane OQ-2","United States",1939,15000.0,"",19,"target drone","",15000.0,1939.0
+"V-1 Flying Bomb","Germany",1943,5090.0,"",19,"surface to surface cruise missile","",5090.0,1943.0
+"V-2 rocket","Germany",1944,3000.0,"",19,"surface to surface ballistic missile","",3000.0,1944.0
+"Yokosuka MXY7 Ohka","Japan",1945,852.0,"",19,"manned missile","",852.0,1945.0
+"Aeronautica Umbra Trojani AUT.18","Italy",1939.0,1.0,"",20,"","",1.0,1939.0
+"Aichi S1A Denkō","Japan",1945.0,2.0,"",20,"","night fighter",2.0,1945.0
+"Ambrosini SS.4","Italy",1940.0,1.0,"",20,"","canard pusher-engine fighter",1.0,1940.0
+"Ambrosini SAI.107","Italy",1940.0,14.0,"",20,"","lightweight fighter",14.0,1940.0
+"Ambrosini SAI.403","Italy",1943.0,1.0,"",20,"","lightweight fighter",1.0,1943.0
+"Arado Ar 240","Germany",1940.0,14.0,"",20,"","",14.0,1940.0
+"Arsenal-Delanne 10","France",1941.0,1.0,"",20,"","tandem-wing two-seat fighter",1.0,1941.0
+"Avia B.35","Czechoslovakia",1938.0,3.0,"",20,"","",3.0,1938.0
+"Aviotehas PN-3","Estonia",1939.0,1.0,"",20,"","",1.0,1939.0
+"Bachem Ba 349 Natter","Germany",1945.0,36.0,"",20,"","vertical launch point defence rocket interceptor",36.0,1945.0
+"Bell XP-77","United States",1944.0,2.0,"",20,"","lightweight fighter",2.0,1944.0
+"Bell XP-83","United States",1945.0,2.0,"",20,"","jet fighter",2.0,1945.0
+"Bell YFM-1 Airacuda[notes 2] flying cruiser","United States",1940.0,13.0,"",20,"","",13.0,1940.0
+"Bereznyak-Isayev BI-1","Soviet Union",1942.0,9.0,"",20,"","rocket fighter",9.0,1942.0
+"Blohm & Voss BV 155","Germany",1944.0,3.0,"",20,"","high-altitude fighter",3.0,1944.0
+"Boeing XF8B","United States",1944.0,3.0,"",20,"","",3.0,1944.0
+"Boeing YB-40 Flying Fortress","United States",1943.0,25.0,"",20,"","bomber escort gunship",25.0,1943.0
+"Borovkov-Florov I-207","Soviet Union",1937.0,5.0,"",20,"","cantilever-wing biplane fighter",5.0,1937.0
+"Boulton Paul P.92","United Kingdom",1937.0,1.0,"",20,"","turret fighter",1.0,1937.0
+"Canadian Car and Foundry FDB-1","Canada",1938.0,1.0,"",20,"","biplane fighter",1.0,1938.0
+"Caproni Ca.335/SABCA S.47","Italy",1939.0,1.0,"",20,"","for Belgium",1.0,1939.0
+"Caproni Vizzola F.4","Italy",1940.0,1.0,"",20,"","",1.0,1940.0
+"Caproni Vizzola F.5","Italy",1939.0,14.0,"",20,"","",14.0,1939.0
+"Caproni Vizzola F.6","Italy",1941.0,2.0,"",20,"","",2.0,1941.0
+"Chu XP-0","China",1943.0,1.0,"",20,"","",1.0,1943.0
+"Consolidated XB-41 Liberator","United States",1942.0,1.0,"",20,"","bomber escort gunship",1.0,1942.0
+"Consolidated Vultee XP-81","United States",1945.0,2.0,"",20,"","",2.0,1945.0
+"Curtiss XF14C","United States",1944.0,1.0,"",20,"","naval fighter with liquid-cooled engine",1.0,1944.0
+"Curtiss XF15C","United States",1945.0,3.0,"",20,"","inspired by the FR-1 Fireball",3.0,1945.0
+"Curtiss YP-37","United States",1937.0,14.0,"",20,"","",14.0,1937.0
+"Curtiss XP-42","United States",1939.0,1.0,"",20,"","",1.0,1939.0
+"Curtiss XP-46","United States",1941.0,2.0,"",20,"","",2.0,1941.0
+"Curtiss XP-53/YP-60","United States",1942.0,6.0,"",20,"","",6.0,1942.0
+"Curtiss XP-62","United States",1943.0,1.0,"",20,"","",1.0,1943.0
+"Curtiss-Wright XP-55 Ascender","United States",1943.0,3.0,"",20,"","canard pusher-engine fighter",3.0,1943.0
+"De Havilland Hornet","United Kingdom",1944.0,383.0,"",20,"","twin engined fighter, entered service post-war",383.0,1944.0
+"de Havilland Vampire","United Kingdom",1943.0,3268.0,"",20,"","jet fighter entered service post-war",3268.0,1943.0
+"Fokker D.XXIII","Netherlands",1939.0,1.0,"",20,"","push/pull twin-engine fighter",1.0,1939.0
+"Fiat G.56","Italy",1944.0,2.0,"",20,"","",2.0,1944.0
+"Fisher P-75 Eagle","United States",1943.0,14.0,"",20,"","",14.0,1943.0
+"Gloster F.5/34","United Kingdom",1937.0,2.0,"",20,"","No longer flying by 1941",2.0,1937.0
+"Gloster F.9/37","United Kingdom",1939.0,1.0,"",20,"","heavy fighter",1.0,1939.0
+"Grumman XF5F Skyrocket","United States",1940.0,1.0,"",20,"","",1.0,1940.0
+"Grumman XP-50","United States",1941.0,1.0,"",20,"","",1.0,1941.0
+"Hawker Fury/Sea Fury","United Kingdom",1944.0,864.0,"",20,"","entered service post-war",864.0,1944.0
+"Hawker Hotspur","United Kingdom",1938.0,1.0,"",20,"","redesign of Hawker Henley as turret fighter",1.0,1938.0
+"Hawker Tornado","United Kingdom",1939.0,4.0,"",20,"","Rolls-Royce Vulture powered equivalent of Hawker Typhoon",4.0,1939.0
+"Heinkel He 280","Germany",1940.0,9.0,"",20,"","",9.0,1940.0
+"Henschel Hs 132","Germany",1945.0,4.0,"",20,"","prone pilot jet fighter/dive bomber",4.0,1945.0
+"Horten Ho 229","Germany",1944.0,3.0,"",20,"","jet flying wing fighter",3.0,1944.0
+"Hughes D-2","United States",1943.0,1.0,"",20,"","",1.0,1943.0
+"IMAM Ro.58","Italy",1942.0,1.0,"",20,"","",1.0,1942.0
+"Kawasaki Ki-60","Japan",1941.0,3.0,"",20,"","",3.0,1941.0
+"Kawasaki Ki-64","Japan",1943.0,1.0,"",20,"","",1.0,1943.0
+"Kawasaki Ki-96","Japan",1943.0,3.0,"",20,"","",3.0,1943.0
+"Koolhoven F.K.55","Netherlands",1938.0,1.0,"",20,"","buried-engine fighter",1.0,1938.0
+"Kyūshū J7W Shinden","Japan",1945.0,2.0,"",20,"","canard pusher-engine fighter",2.0,1945.0
+"Lockheed XP-49","United States",1942.0,1.0,"",20,"","",1.0,1942.0
+"Lockheed XP-58 Chain Lightning","United States",1944.0,1.0,"",20,"","",1.0,1944.0
+"Macchi C.201","Italy",1940.0,2.0,"",20,"","",2.0,1940.0
+"Martin-Baker MB 2","United Kingdom",1938.0,1.0,"",20,"","",1.0,1938.0
+"Martin-Baker MB 3","United Kingdom",1942.0,1.0,"",20,"","",1.0,1942.0
+"Martin-Baker MB 5","United Kingdom",1944.0,1.0,"",20,"","",1.0,1944.0
+"McDonnell FD Phantom","United States",1945.0,62.0,"",20,"","naval jet fighter",62.0,1945.0
+"McDonnell XP-67 Bat","United States",1944.0,1.0,"",20,"","",1.0,1944.0
+"Messerschmitt Me 209","Germany",1938.0,4.0,"",20,"","racer/fighter",4.0,1938.0
+"Messerschmitt Me 309","Germany",1942.0,4.0,"",20,"","",4.0,1942.0
+"Messerschmitt Me 328","Germany",1944.0,9.0,"",20,"","pulse jet fighter",9.0,1944.0
+"Mikoyan-Gurevich I-250","Soviet Union",1945.0,12.0,"",20,"","mixed-power fighter",12.0,1945.0
+"Miles M.20","United Kingdom",1940.0,2.0,"",20,"","emergency fighter",2.0,1940.0
+"Mitsubishi A7M Reppū","Japan",1944.0,9.0,"",20,"","upgraded A6M",9.0,1944.0
+"Mitsubishi J8M/Ki-200 Shūsui","Japan",1944.0,7.0,"",20,"","rocket-propelled interceptor",7.0,1944.0
+"Moskalyev SAM-13","Soviet Union",1940.0,1.0,"",20,"","",1.0,1940.0
+"Nakajima Ki-12","Japan",1936.0,"","",20,"","V12 fighter","",1936.0
+"Nakajima Kikka","Japan",1945.0,1.0,"",20,"","jet fighter",1.0,1945.0
+"Nikitin IS-1","Soviet Union",1941.0,2.0,"",20,"","",2.0,1941.0
+"North American P-82 Twin Mustang","United States",1945.0,272.0,"",20,"","",272.0,1945.0
+"Northrop XP-56 Black Bullet","United States",1943.0,2.0,"",20,"","tailless pusher fighter",2.0,1943.0
+"Orlogsævsfet J.1 Jager","Denmark",1940.0,0.0,"",20,"","in design stage",0.0,1940.0
+"Piaggio P.119","Italy",1942.0,1.0,"",20,"","buried radial-engine fighter",1.0,1942.0
+"Polikarpov I-185","Soviet Union",1941.0,5.0,"",20,"","",5.0,1941.0
+"Polikarpov ITP","Soviet Union",1942.0,2.0,"",20,"","",2.0,1942.0
+"Polikarpov TIS","Soviet Union",1941.0,2.0,"",20,"","",2.0,1941.0
+"Prajadhipok","Siam",1929.0,1.0,"",20,"","Thailand (formerly Siam)",1.0,1929.0
+"PZL.38 Wilk","Poland",1938.0,2.0,"",20,"","",2.0,1938.0
+"PZL.50 Jastrząb","Poland",1939.0,1.0,"",20,"","",1.0,1939.0
+"Reggiane Re.2006","Italy","",1.0,"",20,"","completed but not flown",1.0,""
+"Renard R-36/R-37/R-38","Belgium",1938.0,1.0,"",20,"","",1.0,1938.0
+"Republic XP-69/XP-72","United States",1943.0,2.0,"",20,"","",2.0,1943.0
+"Savoia-Marchetti SM.88","Italy",1939.0,1.0,"",20,"","heavy fighter",1.0,1939.0
+"Savoia-Marchetti SM.91","Italy",1943.0,2.0,"",20,"","heavy fighter",2.0,1943.0
+"Savoia-Marchetti SM.92","Italy",1943.0,1.0,"",20,"","heavy fighter",1.0,1943.0
+"SNCAO 200","France",1939.0,1.0,"",20,"","",1.0,1939.0
+"SNCASE SE.100","France",1939.0,1.0,"",20,"","",1.0,1939.0
+"Sukhoi Su-5","Soviet Union",1945.0,1.0,"",20,"","mixed-power fighter",1.0,1945.0
+"Sukhoi Su-7","Soviet Union",1944.0,1.0,"",20,"","high-altitude interceptor",1.0,1944.0
+"Tachikawa Ki-106","Japan",1945.0,3.0,"",20,"","",3.0,1945.0
+"Varga RMI-1 X/H","Hungary","",1.0,"",20,"","world's first turboprop aircraft, twin-engine fighter bomber, completed but not flown, destroyed by bombing raids before first flight",1.0,""
+"VEF I-16","Latvia",1939.0,1.0,"",20,"","lightweight fighter",1.0,1939.0
+"Vickers Type 432","United Kingdom",1942.0,1.0,"",20,"","high-altitude heavy fighter",1.0,1942.0
+"VL Humu","Finland",1944.0,1.0,"",20,"","",1.0,1944.0
+"VL Pyörremyrsky","Finland",1945.0,1.0,"",20,"","",1.0,1945.0
+"Vultee XP-54","United States",1943.0,2.0,"",20,"","high-altitude interceptor",2.0,1943.0
+"Weiss Manfréd WM-23 Ezüst Nyíl","Hungary",1941.0,1.0,"",20,"","",1.0,1941.0
+"Aero A.300","Czechoslovakia",1938,"","",21,"","","",1938.0
+"ANBO VIII","Lithuania",1939,1.0,"",21,"","",1.0,1939.0
+"Avia B-158","Czechoslovakia",1938,1.0,"",21,"","",1.0,1938.0
+"Avro Lincoln","United Kingdom",1944,604.0,"",21,"","Type entered service in 1945 after end of war",604.0,1944.0
+"Beechcraft XA-38 Grizzly","United States",1944,2.0,"",21,"","",2.0,1944.0
+"Blackburn Firebrand","United Kingdom",1942,223.0,"",21,"","Type entered service in 1945 after end of war",223.0,1942.0
+"Bloch MB.162","France",1940,1.0,"",21,"","",1.0,1940.0
+"Boeing XB-15","United States",1937,1.0,"",21,"","Single large long range bomber prototype, converted to transport (as XC-105) during war",1.0,1937.0
+"Boeing XB-38 Flying Fortress","United States",1943,1.0,"",21,"","alternative engine for B-17 Flying Fortress",1.0,1943.0
+"Boeing XB-39 Superfortress","United States",1944,1.0,"",21,"","alternative engine for B-29 project",1.0,1944.0
+"Boeing XB-44 Superfortress","United States",1945,1.0,"",21,"","development of B-50 Superfortress",1.0,1945.0
+"Breguet 462","France",1936,5.0,"",21,"","Modernised version of Breguet 460 Vultur. Two served in Vichy France",5.0,1936.0
+"Breda Ba.75","Italy",1939,1.0,"",21,"","",1.0,1939.0
+"Breda Ba.201","Italy",1941,2.0,"",21,"","",2.0,1941.0
+"Brewster XA-32","United States",1943,2.0,"",21,"","",2.0,1943.0
+"Bristol Brigand","United Kingdom",1944,147.0,"",21,"","entered service 1946",147.0,1944.0
+"CAC Woomera","Australia",1941,2.0,"",21,"","",2.0,1941.0
+"CANSA FC.12","Italy",1940,11.0,"",21,"","",11.0,1940.0
+"CANSA FC.20","Italy",1941,6.0,"",21,"","",6.0,1941.0
+"CANT Z.1011","Italy",1936,6.0,"",21,"","",6.0,1936.0
+"CANT Z.1018","Italy",1939,15.0,"",21,"","",15.0,1939.0
+"Caproni Ca.355","Italy",1941,1.0,"",21,"","",1.0,1941.0
+"Caudron C.670 Typhon","France",1935,10.0,"",21,"","one light bomber prototype (derived from C.640 high speed postal carrier)",10.0,1935.0
+"DAR 10","Bulgaria",1939,2.0,"",21,"","",2.0,1939.0
+"Dornier Do 19","Germany",1936,3.0,"",21,"","cancelled heavy bomber, possibly used as transport",3.0,1936.0
+"Dornier Do 317","Germany",1943,6.0,"",21,"","heavy bomber",6.0,1943.0
+"Douglas AD Skyraider","United States",1945,3180.0,"",21,"","torpedo/dive bomber",3180.0,1945.0
+"Douglas BTD Destroyer","United States",1944,30.0,"",21,"","",30.0,1944.0
+"Douglas XB-19","United States",1941,1.0,"",21,"","single aircraft to same specification as Boeing XB-15",1.0,1941.0
+"Douglas XA-42 Mixmaster","United States",1944,2.0,"",21,"","buried engines driving pusher propeller in tail",2.0,1944.0
+"Douglas XTB2D Skypirate","United States",1945,2.0,"",21,"","intended successor of the Douglas Devastator",2.0,1945.0
+"Fairey Spearfish","United Kingdom",1945,5.0,"",21,"","",5.0,1945.0
+"Fiat AS.14","Italy",1943,186.0,"",21,"","",186.0,1943.0
+"Focke-Wulf Fw 191","Germany",1942,3.0,"",21,"","heavy bomber",3.0,1942.0
+"Fokker T.IX","Netherlands",1939,1.0,"",21,"","",1.0,1939.0
+"Heinkel He 119","Germany",1937,8.0,"",21,"","unarmed reconnaissance bomber",8.0,1937.0
+"Heinkel He 274","Germany",1945,2.0,"",21,"","high-altitude bomber",2.0,1945.0
+"Henschel Hs 130","Germany",1940,"","",21,"","high-altitude bomber","",1940.0
+"IAR 47","Romania",1942,2.0,"",21,"","",2.0,1942.0
+"Junkers Ju 287","Germany",1944,2.0,"",21,"","",2.0,1944.0
+"Junkers Ju 288","Germany",1940,22.0,"",21,"","bomber",22.0,1940.0
+"Kaiser-Fleetwings XBTK","United States",1945,5.0,"",21,"","dive and torpedo bomber",5.0,1945.0
+"Latécoère 299","France",1939,121.0,"",21,"","carrier-based Latécoère 298",121.0,1939.0
+"Letov Š-50","Czechoslovakia",1938,1.0,"",21,"","",1.0,1938.0
+"Lockheed XP2V-1 Neptune","United States",1945,1177.0,"",21,"","anti-submarine aircraft",1177.0,1945.0
+"Messerschmitt Me 261","Germany",1940,3.0,"",21,"","maritime reconnaissance",3.0,1940.0
+"Messerschmitt Me 264","Germany",1942,3.0,"",21,"","4-engine Amerika bomber",3.0,1942.0
+"Nakajima G5N Shinzan","Japan",1941,6.0,"",21,"","",6.0,1941.0
+"Nakajima G8N Renzan","Japan",1944,4.0,"",21,"","",4.0,1944.0
+"North American XB-28 Dragon","United States",1942,2.0,"",21,"","high-altitude medium bomber",2.0,1942.0
+"Piaggio P.50","Italy",1937,3.0,"",21,"","",3.0,1937.0
+"Polikarpov NB","Soviet Union",1944,1.0,"",21,"","",1.0,1944.0
+"PZL.42","Poland",1936,"","",21,"","","",1936.0
+"PZL.46 Sum","Poland",1939,2.0,"",21,"","",2.0,1939.0
+"Reggiane Re.2003","Italy",1941,1.0,"",21,"","",1.0,1941.0
+"Rikugun Ki-93","Japan",1945,1.0,"",21,"","",1.0,1945.0
+"Savoia-Marchetti SM.86","Italy",1940,34.0,"",21,"","",34.0,1940.0
+"Savoia-Marchetti SM.89","Italy",1942,1.0,"",21,"","",1.0,1942.0
+"Savoia-Marchetti SM.93","Italy",1944,1.0,"",21,"","",1.0,1944.0
+"SNCAO CAO.600","France",1940,1.0,"",21,"","",1.0,1940.0
+"Stearman XA-21","United States",1938,1.0,"",21,"","twin engine attack aircraft (light bomber)",1.0,1938.0
+"Sukhoi Su-6","Soviet Union",1941,3.0,"",21,"","",3.0,1941.0
+"Supermarine Type 322","United Kingdom",1943,2.0,"",21,"","Naval torpedo/dive bomber, reconnaissance aircraft",2.0,1943.0
+"Tachikawa Ki-74","Japan",1944,16.0,"",21,"","",16.0,1944.0
+"Vickers Windsor","United Kingdom",1943,3.0,"",21,"","High-altitude heavy bomber with a pressurised crew compartment",3.0,1943.0
+"Vultee XA-41","United States",1944,1.0,"",21,"","",1.0,1944.0
+"Zmaj R-1","Yugoslavia",1940,1.0,"",21,"","",1.0,1940.0
+"Blohm & Voss BV 144","Germany",1944,2,"",22,"","built in France",2.0,1944.0
+"Boeing 367 YC-97 Stratofreighter","United States",1944,77,"",22,"","based on B-29, entered service in 1947",77.0,1944.0
+"Burnelli UB-14/Cunliffe-Owen Clyde Clipper","United States",1939,3,"",22,"","prototype used by UK and France",3.0,1939.0
+"Consolidated R2Y","United States",1944,1,"",22,"","PB4Y-2 with new fuselage",1.0,1944.0
+"Curtiss-Wright C-76 Caravan","United States",1943,25,"",22,"","wood transport with nose doors",25.0,1943.0
+"Junkers Ju 390","Germany",1943,2,"",22,"","heavy transport and maritime patrol",2.0,1943.0
+"Kokusai Ki-105","Japan",1945,2,"",22,"","fuel transport",2.0,1945.0
+"Lockheed L-049 Constellation","United States",1944,88,"",22,"","civil version of the C-69",88.0,1944.0
+"LWS-2","Poland",1937,1,"",22,"","medical transport",1.0,1937.0
+"Martin 156","Soviet Union",1940,1,"",22,"","Russian-built seaplane airliner",1.0,1940.0
+"Praga E-210","Czechoslovakia",1937,1,"",22,"","",1.0,1937.0
+"Savoia-Marchetti SM.95","Italy",1943,20,"",22,"","",20.0,1943.0
+"SNCASE Languedoc","France",1939,100,"",22,"","",100.0,1939.0
+"Stout XC-107","United States",1941,4,"",22,"","flying car evaluated by USAAF",4.0,1941.0
+"Tachikawa Ki-77","Japan",1942,2,"",22,"","very long-range transport",2.0,1942.0
+"Tachikawa Ki-92","Japan",1945,1,"",22,"","troop/cargo transport",1.0,1945.0
+"Aeronautica Lombarda AL-12P","Italy",1943,16.0,"",23,"","",16.0,1943.0
+"Allied Aviation XLRA","United States",1943,2.0,"",23,"","seaplane glider",2.0,1943.0
+"Antonov A-40","Soviet Union",1942,1.0,"",23,"","",1.0,1942.0
+"AVIA LM.02","Italy",1942,"","",23,"","bomber glider","",1942.0
+"Baynes Bat","United Kingdom",1943,7.0,"",23,"","experimental tailless glider",7.0,1943.0
+"Blohm & Voss BV 40","Germany",1944,2.0,"",23,"","interceptor glider",2.0,1944.0
+"Bristol XLRQ","United States",1943,3.0,"",23,"","seaplane glider",3.0,1943.0
+"CAT TM-2","Italy",1943,2.0,"",23,"","",2.0,1943.0
+"Chase YCG-14","United States",1945,2.0,"",23,"","",2.0,1945.0
+"Cornelius XFG-1","United States",1944,1.0,"",23,"","",1.0,1944.0
+"DFS 331","Germany",1942,"","",23,"","","",1942.0
+"Frankfort TG-1","United States",1940,43.0,"",23,"","",43.0,1940.0
+"General Airborne Transport XCG-16","United States",1943,16.0,"",23,"","",16.0,1943.0
+"Gotha Ka 430","Germany",1943,12.0,"",23,"","",12.0,1943.0
+"Horten H.IV","Germany",1941,4.0,"",23,"","flying wing glider",4.0,1941.0
+"Horten H.V","Germany",1937,2.0,"",23,"","",2.0,1937.0
+"I.Ae. 25 Mañque","Argentina",1945,1.0,"",23,"","",1.0,1945.0
+"Junkers Ju 322","Germany",1941,2.0,"",23,"","",2.0,1941.0
+"Kokusai Ku-7","Japan",1942,2.0,"",23,"","",2.0,1942.0
+"Laister-Kauffman XCG-10","United States",1942,5.0,"",23,"","",5.0,1942.0
+"Maeda Ku-6","Japan",1945,1.0,"",23,"","",1.0,1945.0
+"Pratt-Read TG-32","United States",1940,75.0,"",23,"","",75.0,1940.0
+"Polikarpov BDP","Soviet Union",1943,2.0,"",23,"","",2.0,1943.0
+"Slingsby T.20","United Kingdom",1944,1.0,"",23,"","",1.0,1944.0
+"St. Louis CG-5","United States",1942,1.0,"",23,"","",1.0,1942.0
+"Yokosuka MXY5","Japan",1942,12.0,"",23,"","",12.0,1942.0
+"Airspeed Cambridge","United Kingdom",1941,2.0,"",24,"","advanced trainer",2.0,1941.0
+"Boeing XAT-15","United States",1942,2.0,"",24,"","",2.0,1942.0
+"CAT QR.14","Italy",1943,"","",24,"","","",1943.0
+"de Havilland Don","United Kingdom",1938,30.0,"",24,"","",30.0,1938.0
+"Fleetwings BT-12","United States",1942,25.0,"",24,"","",25.0,1942.0
+"General Aircraft Cagnet","United Kingdom",1939,1.0,"",24,"","",1.0,1939.0
+"General Aircraft Cygnet","United Kingdom",1937,11.0,"",24,"","",11.0,1937.0
+"General Aircraft Owlet","United Kingdom",1942,1.0,"",24,"","",1.0,1942.0
+"Heston T.1/37","United Kingdom",1938,1.0,"",24,"","",1.0,1938.0
+"Ikarus Aero 2","Yugoslavia",1940,248.0,"",24,"","",248.0,1940.0
+"Ikarus MM-2","Yugoslavia",1941,1.0,"",24,"","",1.0,1941.0
+"Marinens Flyvebaatfabrikk/Høver M.F.12","Norway",1939,4.0,"",24,"","floatplane trainer",4.0,1939.0
+"Miles M.15","United Kingdom",1938,2.0,"",24,"","",2.0,1938.0
+"Miles Kestrel","United Kingdom",1937,1.0,"",24,"","",1.0,1937.0
+"Miles Mercury","United Kingdom",1941,6.0,"",24,"","",6.0,1941.0
+"Miles Monitor","United Kingdom",1944,22.0,"",24,"","target tug",22.0,1944.0
+"Parnall 382","United Kingdom",1939,1.0,"",24,"","",1.0,1939.0
+"PWS-33 Wyżeł","Poland",1938,2.0,"",24,"","twin-engine trainer",2.0,1938.0
+"PWS-35 Ogar","Poland",1938,2.0,"",24,"","",2.0,1938.0
+"Reid and Sigrist R.S.1","United Kingdom",1939,1.0,"",24,"","twin-engine trainer",1.0,1939.0
+"Reid and Sigrist R.S.3","United Kingdom",1945,1.0,"",24,"","twin-engine trainer",1.0,1945.0
+"Rogozarski SIM-XI","Yugoslavia",1938,1.0,"",24,"","",1.0,1938.0
+"St. Louis YPT-15","United States",1940,14.0,"",24,"","primary trainer",14.0,1940.0
+"Stampe SV.4","Belgium",1933,1050.0,"",24,"","biplane trainer, flown before war, not used until after",1050.0,1933.0
+"Stearman XBT-17","United States",1942,1.0,"",24,"","monoplane trainer",1.0,1942.0
+"Yakovlev Yak-5","Soviet Union",1944,1.0,"",24,"","",1.0,1944.0
+"Yokosuka D3Y Myōjō","Japan",1945,5.0,"",24,"","bomber trainer",5.0,1945.0
+"Breguet-Dorand Gyroplane Laboratoire","France",1935.0,1.0,"",25,"","Helicopter",1.0,1935.0
+"Dorand G.20","France","","","",25,"","Helicopter","",""
+"Focke-Achgelis Fa 223","Germany",1942.0,20.0,"",25,"","twin rotor transport helicopter",20.0,1942.0
+"Focke-Achgelis Fa 225","Germany",1942.0,1.0,"",25,"","rotary wing glider",1.0,1942.0
+"Hafner Rotabuggy","United Kingdom",1943.0,1.0,"",25,"","towed autogyro jeep",1.0,1943.0
+"Higgins EB-1","United States",1943.0,1.0,"",25,"","Helicopter",1.0,1943.0
+"Kellett KD-1/XO-60/YO-60","United States",1934.0,"","",25,"","autogyro","",1934.0
+"Landgraf H-2","United States",1944.0,1.0,"",25,"","helicopter",1.0,1944.0
+"McDonnell XHJH Whirlaway","United States",1944.0,1.0,"",25,"","helicopter",1.0,1944.0
+"Piaggio-D'Ascanio PD3","Italy",1942.0,"","",25,"","helicopter","",1942.0
+"Piasecki HRP Rescuer","United States",1945.0,28.0,"",25,"","helicopter",28.0,1945.0
+"Platt-LePage XR-1","United States",1941.0,2.0,"",25,"","helicopter",2.0,1941.0
+"Vought-Sikorsky VS-300","United States",1939.0,"","",25,"","amphibious helicopter","",1939.0
+"Blohm & Voss BV 143","Germany",1941,157.0,"",26,"","anti-ship missile",157.0,1941.0
+"Blohm & Voss BV 246","Germany",1943,1000.0,"",26,"","Hagelkorn guided glide bomb",1000.0,1943.0
+"EMW C2 Wasserfall","Germany",1943,"","",26,"","guided surface-to-air missile developed from V-2","",1943.0
+"Fletcher PQ-11","United States",1941,11.0,"",26,"","target drone/glide bomb",11.0,1941.0
+"McDonnell LBD Gargoyle","United States",1945,200.0,"",26,"","air-to-surface missile",200.0,1945.0
+"Mistel","Germany",1943,250.0,"",26,"","large air-to-surface missile with parasite guidance aircraft",250.0,1943.0
+"Northrop JB-1 Bat","United States",1944,"","",26,"","surface-to-surface missile","",1944.0
+"Republic-Ford JB-2","United States",1944,1391.0,"",26,"","surface-to-surface missile (V-1 copy)",1391.0,1944.0
+"Rheinmetall-Borsig Feuerlilie","Germany",1943,"","",26,"","surface-to-air missile","",1943.0
+"Ruhrstahl X-4","Germany",1944,"","",26,"","air-to-air missile","",1944.0
+"Airspeed Fleet Shadower","United Kingdom",1940,1.0,"",27,"","low speed shipborne aircraft for tracking enemy fleet visually",1.0,1940.0
+"AVIS C.4","Italy",1940,1.0,"",27,"","liaison",1.0,1940.0
+"Bestetti Nardie BN.1","Italy",1940,"","",27,"","racer/fighter/liaison","",1940.0
+"Blackburn B-20","United Kingdom",1940,1.0,"",27,"","seaplane with retractable hull",1.0,1940.0
+"Bloch MB.480","France",1939,2.0,"",27,"","floatplane",2.0,1939.0
+"Blohm & Voss BV 141","Germany",1938,28.0,"",27,"","asymmetrical tactical reconnaissance aircraft",28.0,1938.0
+"Blohm & Voss BV 238","Germany",1944,1.0,"",27,"","large transport flying boat",1.0,1944.0
+"Boeing XPBB Sea Ranger","United States",1942,1.0,"",27,"","patrol seaplane",1.0,1942.0
+"CANT Z.511","Italy",1940,2.0,"",27,"","transport/bomber floatplane",2.0,1940.0
+"CANT Z.516","Italy",1940,1.0,"",27,"","bomber floatplane",1.0,1940.0
+"Caproni Ca.316","Italy",1940,14.0,"",27,"","floatplane",14.0,1940.0
+"Caproni Ca.331","Italy",1940,3.0,"",27,"","reconnaissance aircraft, bomber, and night fighter",3.0,1940.0
+"Consolidated XP4Y Corregidor","United States",1939,1.0,"",27,"","patrol seaplane",1.0,1939.0
+"DFS 228","Germany",1944,2.0,"",27,"","high-altitude manned reconnaissance rocket",2.0,1944.0
+"ERCO Ercoupe YO-55","United States",1940,5685.0,"",27,"","JATO tests",5685.0,1940.0
+"Fairchild XBQ-3","United States",1944,2.0,"",27,"","assault drone",2.0,1944.0
+"Fleetwings XBQ-2","United States",1943,1.0,"",27,"","assault drone",1.0,1943.0
+"General Aircraft Fleet Shadower","United Kingdom",1940,1.0,"",27,"","low-speed shipborne aircraft for tracking enemy vessels",1.0,1940.0
+"Kawanishi E15K Shiun","Japan",1941,15.0,"",27,"","reconnaissance floatplane",15.0,1941.0
+"Kobeseiko Te-Gō","Japan",1943,1.0,"",27,"","STOL spotter/liaison",1.0,1943.0
+"Koolhoven F.K.49","Netherlands",1935,4.0,"",27,"","photo survey",4.0,1935.0
+"Loire-Nieuport 10","France",1939,1.0,"",27,"","patrol floatplane",1.0,1939.0
+"LWS-3 Mewa","Poland",1938,30.0,"",27,"","army cooperation",30.0,1938.0
+"Nakajima Ki-115","Japan",1945,104.0,"",27,"","kamikaze aircraft",104.0,1945.0
+"Nihon L7P","Japan",1942,1.0,"",27,"","transport amphibian",1.0,1942.0
+"Nikol A-2","Poland",1939,1.0,"",27,"","seaplane trainer",1.0,1939.0
+"Potez-CAMS 141","France",1938,1.0,"",27,"","long range reconnaissance flying boat",1.0,1938.0
+"Praga E-51","Czechoslovakia",1938,1.0,"",27,"","tactical reconnaissance",1.0,1938.0
+"SFAN 11","France",1940,1.0,"",27,"","liaison",1.0,1940.0
+"Short Seaford","United Kingdom",1944,10.0,"",27,"","improved Sunderland, trials only",10.0,1944.0
+"Short Shetland","United Kingdom",1944,2.0,"",27,"","long range reconnaissance flying boat",2.0,1944.0
+"SNCAC NC.4-10","France",1939,1.0,"",27,"","floatplane bomber/torpedo bomber",1.0,1939.0
+"SNCAO 30","France",1938,2.0,"",27,"","seaplane trainer",2.0,1938.0
+"Tachikawa Ki-70","Japan",1943,3.0,"",27,"","high-speed photo reconnaissance aircraft",3.0,1943.0
+"Tupolev MTB-2","Soviet Union",1937,2.0,"",27,"","four-engine flying boat, cancelled after German invasion",2.0,1937.0
+"Yokosuka R2Y Keiun","Japan",1945,3.0,"",27,"","reconnaissance aircraft",3.0,1945.0
+"Zveno SPB","Soviet Union",1938,"","",27,"","2-5 parasite fighters carried by bomber","",1938.0
+"Armstrong Whitworth A.W.52","United Kingdom",1945,2.0,"",28,"","flying wing",2.0,1945.0
+"Bell 30","United States",1943,3.0,"",28,"","experimental helicopter",3.0,1943.0
+"Cierva W.9","United Kingdom",1945,"","",28,"","experimental helicopter","",1945.0
+"DFS 40","Germany",1939,1.0,"",28,"","tailless aircraft",1.0,1939.0
+"DFS 194","Germany",1940,1.0,"",28,"","aerodynamic testbed for Messerschmitt Me 163",1.0,1940.0
+"Flettner Fl 265","Germany",1939,6.0,"",28,"","intermesh rotor helicopter",6.0,1939.0
+"Göppingen Gö 9","Germany",1941,1.0,"",28,"","tail mounted propeller testbed",1.0,1941.0
+"Handley Page Manx","United Kingdom",1943,1.0,"",28,"","tailless aircraft",1.0,1943.0
+"Hiller XH-44","United States",1944,"","",28,"","coaxial rotor helicopter","",1944.0
+"Hillson Bi-mono","United Kingdom",1941,1.0,"",28,"","slip wing testbed",1.0,1941.0
+"Kayaba Ku-2","Japan",1940,1.0,"",28,"","tailless glider",1.0,1940.0
+"Kayaba Ku-3","Japan",1941,1.0,"",28,"","tailless glider",1.0,1941.0
+"Kawasaki Ki-78","Japan",1942,1.0,"",28,"","high speed flight",1.0,1942.0
+"Kellett XR-8","United States",1944,2.0,"",28,"","intermesh rotor helicopter",2.0,1944.0
+"Lippisch DM-1","Germany",1944,1.0,"",28,"","delta-wing glider",1.0,1944.0
+"Martin 162A Tadpole Clipper","United States",1937,1366.0,"",28,"","half scale flyingboat",1366.0,1937.0
+"Miles M.30","United Kingdom",1942,1.0,"",28,"","blended wing",1.0,1942.0
+"Miles M.35 Libellula","United Kingdom",1942,1.0,"",28,"","tandem wing",1.0,1942.0
+"Miles M.39B Libellula","United Kingdom",1943,1.0,"",28,"","tandem wing/canard",1.0,1943.0
+"Northrop N-1M","United States",1941,1.0,"",28,"","flying wing",1.0,1941.0
+"Northrop N-9M","United States",1942,4.0,"",28,"","flying wing",4.0,1942.0
+"Payen PA-22","France",1942,1.0,"",28,"","delta and tandem-wing",1.0,1942.0
+"Piasecki PV-2","United States",1943,1.0,"",28,"","helicopter",1.0,1943.0
+"Saro Shrimp","United Kingdom",1939,1.0,"",28,"","half sized flying boat",1.0,1939.0
+"Tachikawa SS-1","Japan",1943,354.0,"",28,"","high altitude research, pressurized cabin",354.0,1943.0
+"Vought V-173","United States",1942,1.0,"",28,"","aerodynamic testbed for Vought XF5U which never flew",1.0,1942.0
+"Yokosuka MXY6","Japan",1943,2.0,"",28,"","aerodynamic testbed for Kyushu J7W",2.0,1943.0
+"Yokosuka MXY8 Akigusa/Ku-13","Japan",1945,"","",28,"","aerodynamic testbed for Mitsubishi J8M rocket interceptor","",1945.0
+"Caproni Campini N.1","Italy",1940,2,"",29,"","jet engine testbed",2.0,1940.0
+"Folland Fo.108","United Kingdom",1940,12,"",29,"","piston engine testbed",12.0,1940.0
+"Gloster E.28/39","United Kingdom",1941,2,"",29,"","jet engine testbed",2.0,1941.0
+"Heinkel He 176","Germany",1939,1,"",29,"","rocket engine testbed",1.0,1939.0
+"Heinkel He 178","Germany",1939,1,"",29,"","jet engine testbed",1.0,1939.0
+"Akaflieg Berlin B 9","Germany",1944,1,"",30,"","prone pilot research",1.0,1944.0
+"Heinkel He 119","Germany",1937,8,"",30,"","streamlining",8.0,1937.0
+"Piaggio P.111","Italy",1941,1,"",30,"","high altitude research",1.0,1941.0
